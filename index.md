@@ -11,7 +11,7 @@ Asylum Seekers
 - Offshore processing
   - Labor Party
     - [Maintain offshore processing, but community-based assessment is preferred](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf)
-    - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf)
+    - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
   - Liberal Party
     - [Scott Morrison as Immigration Minister enacted offshore processing policies](https://www.liberal.org.au/our-plan/national-security#:~:text=Our%20effective%20policies,offshore%20processing%3B)
     - [All children removed from detention](https://www.liberal.org.au/our-plan/border-security#:~:text=Stopping%20the%20boats%20has%20enabled%20the%20Government%20to%20close%2019%20detention%20centres%20and%20remove%20all%20children%20from%20detention.)
