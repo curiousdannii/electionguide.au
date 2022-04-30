@@ -9,22 +9,37 @@ Asylum Seekers
 --------------
 
 - Offshore processing
+  - Greens
+    - [End offshore detention](https://greens.org.au/platform/equality#:~:text=Close%20the%20camps%20and%20end%20offshore%20detention%20on%20Manus%20Island%20and%20Nauru%2C%20bringing%20refugees%20to%20safety%20and%20freedom%20in%20Australia%C2%A0)
   - Labor Party
     - [Maintain offshore processing, but community-based assessment is preferred](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf)
-    - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
   - Liberal Party
     - [Scott Morrison as Immigration Minister enacted offshore processing policies](https://www.liberal.org.au/our-plan/national-security#:~:text=Our%20effective%20policies,offshore%20processing%3B)
     - [All children removed from detention](https://www.liberal.org.au/our-plan/border-security#:~:text=Stopping%20the%20boats%20has%20enabled%20the%20Government%20to%20close%2019%20detention%20centres%20and%20remove%20all%20children%20from%20detention.)
-    - [Repeaked Medevac laws](https://www.liberal.org.au/our-plan/border-security#:~:text=We%20repealed%20Labor%E2%80%99s%20reckless%20%E2%80%98Medevac%E2%80%99%20laws%2C%20which%20undermined%20our%20strong%20border%20protection%20regime.)
+    - [Repealed Medevac laws](https://www.liberal.org.au/our-plan/border-security#:~:text=We%20repealed%20Labor%E2%80%99s%20reckless%20%E2%80%98Medevac%E2%80%99%20laws%2C%20which%20undermined%20our%20strong%20border%20protection%20regime.)
+
+- Refugee settlement
+  - Greens
+    - [Increase intake to 50K/year. Provide additional 4K places for refugees from Afghanistan](https://greens.org.au/platform/equality#:~:text=Increase%20Australia%E2%80%99s%20humanitarian%20intake%20to%2050%2C000%20per%20year%0AProvide%20an%20additional%204%2C000%20humanitarian%20places%20for%20refugees%20from%20Afghanistan%20and%20protect%20Afghan%20citizens%20already%20in%20Australia%C2%A0)
+  - Labor Party
+    - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
 
 Climate & Environment
 ---------------------
 
 - Electric vehicles
+  - Greens
+    - [Reduce cost of electric vehicles by up to $15K](https://greens.org.au/platform/climate#:~:text=Help%20you%20buy%20your%20first%20EV%2C%20reducing%20the%20cost%20of%20an%20electric%20vehicle%20by%20up%20to%20%2415%2C000%20and%20provide%20ultra%2Dcheap%20finance%20for%20the%20balance)
+    - [$2B for publicly owned fast EV charging network](https://greens.org.au/platform/climate#:~:text=Build%20a%20%242%20billion%20publicly%20owned%20EV%20fast%20charging%20network%2C%20ensuring%20that%20you%E2%80%99ll%20always%20have%20a%20place%20to%20fuel%20up)
+    - [$1.2B towards local EV manufacturing](https://greens.org.au/platform/climate#:~:text=Provide%20%241.2b%20to%20manufacturers%20of%20electric%20vehicles%20and%20electric%20vehicle%20components%20in%20Australia%2C%20building%20the%20Australian%20EV%20manufacturing%20industry)
+    - [Electrify the Commonwealth fleet by 2025](https://greens.org.au/platform/climate#:~:text=Electrify%20the%20Commonwealth%20fleet%20by%202025%2C%20leading%20the%20way%20and%20driving%20the%20second%2Dhand%20vehicle%20market)
+    - [End sale of new petrol and diesel cars from 2030](https://greens.org.au/platform/climate#:~:text=End%20the%20sale%20of%20new%20petrol%20and%20diesel%20cars%20from%202030%2C%20so%20you%E2%80%99re%20not%20stuck%20on%20yesterday%E2%80%99s%20technology)
   - Labor Party
     - [Remove import tariffs and fringe benefits tax from electric cars](https://www.alp.org.au/policies/electric-car-discount#:~:text=As%20part%20of,for%20private%20use.)
 
 - Emissions
+  - Greens
+    - ?
   - Labor Party
     - [43% reduction by 2030, net zero by 2050](https://www.alp.org.au/policies/powering-australia#:~:text=our%20plan%20will%20reduce%20Australia%E2%80%99s%20emissions%20by%2043%25%20by%202030%20%E2%80%93%20which%20will%20become%20Australia%E2%80%99s%20target%20under%20the%20Paris%20Agreement%2C%20keeping%20us%20on%20track%20for%20net%20zero%20by%202050.)
     - [Reduce the public service's emissions to zero by 2030](https://www.alp.org.au/policies/powering-australia#:~:text=Demonstrate%20Commonwealth%20leadership%20by%20reducing%20the%20Australian%20Public%20Service%E2%80%99s%20own%20emissions%20to%20net%20zero%20by%202030.)
@@ -36,23 +51,43 @@ Climate & Environment
     - [increase natural gas production](https://www.liberal.org.au/our-plan-resources#:~:text=The%20Morrison%20Government%20has%20taken%20action%20to%20get%20more%20gas%20supply%20into%20the%20domestic%20market%20and%20increase%20competition%20to%20drive%20down%20prices.)
 
 - Energy
+  - Greens
+    - [Immediately ban the construction of new fossil fuel power infrastructure](https://greens.org.au/platform/climate#:~:text=Immediately%20ban%20the%20construction%20of%20new%20coal%2C%20oil%20and%20gas%20infrastructure%2C%20ensuring%20we%20can%20transition%20our%20economy%20to%20zero%20carbon%20energy%20while%20maintaining%20a%20safe%20climate)
+    - [Stop $10B/year of subsidies to fossil fuel companies](https://greens.org.au/platform/climate#:~:text=Stop%20the%20massive%20subsidies%20to%20big%20coal%2C%20oil%20and%20gas%20corporations%20%2D%20over%20%2410b%20each%20year%20and%20reinvest%20the%20money%20into%20the%20clean%20energy%20transition%C2%A0)
+    - [Phase out the mining, burning, and export of thermal coal by 2030](https://greens.org.au/platform/climate#:~:text=Phase%20out%20the%20mining%2C%20burning%20and%20export%20of%20thermal%20coal%20by%202030%20to%20ensure%20we%20do%20our%20bit%2C%20so%20the%20world%20does%20not%20go%20over%20the%201.5%20degree%20climate%20cliff%C2%A0)
+    - [Ban gas in new housing developments](https://greens.org.au/platform/climate#:~:text=Work%20with%20state%20and%20territories%20to%20ban%20gas%20in%20new%20housing%20developments)
+    - [Support household batteries with $10K grants](https://greens.org.au/platform/climate#:~:text=Kickstart%20a%20household%20battery%20boom%2C%20with%20grants%20of%20up%20to%20%2410k%20and%20loans%20up%20to%20%2450k)
+    - [Create a publicly owned non-profit power retailer to bring down prices](https://greens.org.au/platform/services#:~:text=The%20creation%20of%20a%20publicly%20owned%20non%2Dprofit%20power%20retailer%2C%20to%20push%20power%20prices%20down%20and%20end%20price%20gouging%20by%20the%20big%20energy%20companies)
   - Labor Party
     - [$200M for 400 community batteries (each could support 250 households)](https://www.alp.org.au/policies/community-batteries-for-household-solar)
   - Liberal Party
     - [$140M to hydrogen hubs](https://www.liberal.org.au/our-plan-resources#:~:text=invest%20%24140%20million%20in%20the%20development%20of%20two%20Hydrogen%20Hubs%20in%20Western%20Australia%20to%20accelerate%20the%20development%20of%20Australia%E2%80%99s%20hydrogen%20industry)
 
 - Environment
+  - Greens
+    - [$2B/year for replanting trees and reestablishing green spaces in our cities, suburbs, and regions](https://greens.org.au/platform/enviro#:~:text=Green%20Australia%20and%20restore%20wildlife%20habitat%20by%20investing%20%242b%20each%20year%20to%20plant%202%20billion%20trees%20by%202030%20to%20reestablish%20green%20space%20in%20our%20cities%2C%20regions%20and%20suburbs)
+    - [$767M to expand First Nations ranger program, and return land to First Nations management](https://greens.org.au/platform/first-nations#:~:text=%24767m%20over%20the%20forward%20estimates%20to%20expand%20the%20First%20Nations%20ranger%20programs%20and%20Indigenous%20Protected%20Areas%20to%20heal%20Country%20by%20returning%20land%20to%20First%20Nations%20management%20and%20providing%20long%2Dterm%20sustainable%20jobs)
   - Labor Party
     - [$200M to support the restoration of waterways and river cachments](https://www.alp.org.au/policies/urban-rivers-and-catchments-program)
     - [Double the Indigenous Rangers program, and boost funding for Indigenous Protected Areas by $10M/year](https://www.alp.org.au/policies/doubling-indigenous-rangers)
     - [$34M to establish a national water commission to reform use of water resources](https://alp.org.au/policies/labors-plan-to-future-proof-australias-water-resources#:~:text=The%20details,National%20Water%20Commission.)
 
 - Forestry
+  - Greens
+    - [End land clearing and native forest logging](https://greens.org.au/platform/climate#:~:text=Ending%20land%20clearing%20and%20native%20forest%20logging%20so%20we%20can%20ensure%20we%20protect%20the%20carbon%20already%20in%20our%20native%20forests%20and%20grasslands)
   - Liberal Party
     - [Guarantee not to support any shutdowns of native forestry](https://www.liberal.org.au/our-plan-australian-forestry#:~:text=guarantee%20not%20to%20support%20any%20shutdowns%20of%20native%20forestry)
     - [$4.4M to fight illegal logging](https://www.liberal.org.au/our-plan-australian-forestry#:~:text=invest%20%244.4%20million%20to%20strengthen%20Australia%E2%80%99s%20fight%20against%20illegal%20logging%20and%20stop%20illegal%20timber%20imports%20from%20undercutting%20Australian%20producers)
 
+- Public transport
+  - Greens
+    - [$25B more to rail and bus services, and $500M/year towards safe cycling and walking](https://greens.org.au/platform/climate#:~:text=Put%20an%20extra%20%2425%20billion%20into%20rail%20and%20bus%20services%20and%20%24500%20million%20per%20year%20into%20making%20cycling%20and%20walking%20safe%20and%20accessible%20and%20connecting%20people%20from%20the%20cities%2C%20to%20outer%20suburbs%20and%20regions%20with%20ease%20%C2%A0)
+
 - Recycling
+  - Greens
+    - [$1B for local council composting facilities](https://greens.org.au/platform/economy#:~:text=Provide%20%241bn%20for%20a%20nationwide%20compostable%20processing%20scheme%20supporting%20local%20councils%20to%20build%20industrial%20compostable%20facilities%2C%20which%20will%20make%20best%20use%20of%20our%20recycled%20goods%2C%20will%20create%20thousands%20of%20jobs%2C%20and%20help%20us%20live%20more%20sustainably)
+    - [$500M into infrastructure and programs to reboot recycling](https://greens.org.au/platform/economy#:~:text=Invest%20%24500%20million%20over%20five%20years%20into%20infrastructure%20and%20programs%20to%20reboot%20recycling)
+    - [Phase out key single use plastics by 2025 and have a national approach for container deposit schemes](https://greens.org.au/platform/enviro#:~:text=Legislate%20a%20national,container%20deposit%20schemes)
   - Liberal Party
     - [$250M Recycling Modernisation Fund](https://www.liberal.org.au/our-plan/environment#:~:text=Our%20%24250%20million,been%20remade%20here.)
     - [Plastic, paper, tyres, glass waste recycled on-shore](https://www.liberal.org.au/our-plan/environment#:~:text=No%20longer%20are%20we%20exporting%20plastic%2C%20paper%2C%20tyres%20and%20glass%20waste.%20Instead%2C%20we%E2%80%99re%20recycling%20it%20here%20in%20Australia%20and%20creating%20over%2010%2C000%20jobs%20in%20the%20process.)
@@ -61,13 +96,41 @@ Political Integrity
 -------------------
 
 - Anti-corruption commission
+  - Greens
+    - [Create a strong Federal integrity commission](https://greens.org.au/platform/democracy#:~:text=Creation%20of%20a%20strong%20Federal%20integrity%20commission%20to%20shine%20a%20light%20on%20corruption%20and%20unethical%20behaviour%2C%20and%20hold%20corrupt%20politicians%C2%A0accountable)
   - Labor Party
     - [Will legislate a powerful, transparent, and independent national anti-corruption commission by end of 2022](https://www.alp.org.au/policies/fighting-corruption)
+
+- Political donations
+  - Greens
+    - [Ban political donations from the mining and resources sector, cap all other donations to $1000/year](https://greens.org.au/platform/democracy#:~:text=Get%20dirty%20money%20out%20of%20politics.%20We%20will%20ban%20all%20donations%20from%20coal%20and%20gas%20corporations%2C%20and%20cap%20all%20other%20donations%20to%20%241%2C000%20per%20year.%C2%A0)
+
+- Transparency
+  - Greens
+    - [Require major projects over $100M to have an independent evaluation and community consulation](https://greens.org.au/platform/services#:~:text=Ensure%20the%20community%20is%20at%20the%20centre%20of%20project%20planning%20by%20requiring%20major%20projects%20over%20%24100%20million%20to%20have%20an%20independent%20evaluation%20and%20community%20consultation.%C2%A0)
+    - [Publish a register of meetings between Ministers and mining lobbyists](https://greens.org.au/platform/democracy#:~:text=Publish%20a%20register%20of%20meetings%20between%20Ministers%20and%20mining%20lobbyists%20to%20improve%20transparency%20and%20shine%20a%20light%20on%20dodgy%20deals)
+    - [Stop Ministers taking industry jobs in industries they used to regulate within 5 years of leaving parliament](https://greens.org.au/platform/democracy#:~:text=Stop%20Ministers%20taking%20cushy%20industry%20jobs%20in%20industries%20they%20used%20to%20regulate%20within%205%20years%20of%20leaving%20parliament)
 
 Living Costs
 ------------
 
+- Education
+  - Greens
+    - [Wipe out student debt, and make TAFE and university free for everyone](https://greens.org.au/platform/economy#:~:text=Wipe%20out%20student%20debt.%C2%A0Fully%20fund%20unlimited%20free%20TAFE%2C%20university%20for%20everyone)
+
+- Health
+  - Greens
+    - [$4.8B for mental healthcare, including unlimited sessions with psychologists/psychiatrists with no out of pocket expenses](https://greens.org.au/platform/health#:~:text=Invest%20%244.8%20billion%20to%20ensure%20mental%20healthcare%20is%20fully%20covered%20under%20Medicare%20by%20providing%20unlimited%20sessions%20with%20a%20psychologist%20or%20psychiatrist%20with%20no%20out%20of%20pocket%20fees%20so%20everyone%20can%20get%20the%20support%20they%20need%2C%20when%20they%20need%20it%2C%20at%20every%20stage%20of%20their%20mental%20health%20journey)
+    - [Make free Medicare-funded dental care to all](https://greens.org.au/platform/health#:~:text=Provide%20Medicare%2Dfunded%20free%20dental%20care%20to%20all%2C%20accessible%20through%20your%20Medicare%20card%20so%20everyone%20can%20visit%20the%20dentist%20when%20they%20need%20to)
+    - [Double Commonwealth funding to $900M for alcohol and other drug treatment](https://greens.org.au/platform/health#:~:text=Double%20Commonwealth%20Alcohol%20and%20Other%20Drug%20Treatment%20funding%20to%20%24900%20million%20to%20help%20ensure%20more%20people%20can%20get%20the%20treatment%20they%20need)
+    - [$246 to establish a national Centre for Disease Control](https://greens.org.au/platform/health#:~:text=Establish%20a%20National%20Centre%20for%20Disease%20Control%20with%20%24246%20million%20of%20funding%20to%20lead%20a%20unified%2C%20apolitical%20health%20approach%20across%20the%20entire%20country%20and%20ensure%20we%20can%20deal%20with%20the%20threat%20of%20new%20emerging%20diseases)
+    - [$250M for Covid-19 research](https://greens.org.au/platform/health#:~:text=Invest%20%24250%20million%20over%20the%20next%20two%20years%20into%20Covid%2D19%20vaccine%20research)
+    - [$68.5M for free pads and tampons in all schools](https://greens.org.au/platform/health#:~:text=Invest%20%2468.5%20million%20to%20provide%20free%20pads%20and%20tampons%20in%20all%20schools%20to%20improve%20students%E2%80%99%20health%20and%20wellbeing%2C%20reduce%20period%20stigma%2C%20and%20ensure%20that%20no%20student%20has%20to%20skip%20school%20during%20their%20period)
+
 - Housing
+  - Greens
+    - [Build a million new affordable, accessible, sustainable homes to clear public housing waiting lists](https://greens.org.au/platform/economy#:~:text=Build%20a%20million%20new%2C%20affordable%2C%20accessible%20and%20sustainable%20new%20homes%20to%20clear%20public%20housing%20waiting%20lists%2C%20make%20housing%20more%20affordable%2C%20end%20homelessness%2C%20and%20ensure%20everyone%20has%20a%20roof%20over%20their%20head): [750K public and community houses, 125K new shared ownership homes, 125K public rental homes](https://greens.org.au/platform/services#:~:text=750%2C000%20new%20public,towards%20universal%20housing)
+    - [$7B in grants to improve existing homes making them warmer in winter and cooler in summer](https://greens.org.au/platform/economy#:~:text=Improve%20existing%20homes%20with%20%247%20billion%20in%20capital%20grants%20to%20make%20homes%20warmer%20in%20winter%20and%20cooler%20in%20summer)
   - Labor Party
     - [$10B to build 30K new social and affordable housing properties in 5 years](https://www.alp.org.au/policies/safer-and-more-affordable-housing#:~:text=Labor%20will%20create%20the%20%2410%20billion%20Housing%20Australia%20Future%20Fund%20which%20will%20build%2030%2C000%20new%20social%20and%20affordable%20housing%20properties%20in%20its%20first%20five%20years%2C%20and%20create%20thousands%20of%20jobs.)
     - [$1.6B for 4000 new social housing properties for women and children fleeing domestic violence](https://www.alp.org.au/policies/womens-safety#:~:text=%241.6%20billion%20will%20be%20spent%20to%20build%204000%20new%20social%20housing%20properties%20specifically%20allocated%20for%20women%20and%20children%20fleeing%20domestic%20and%20family%20violence.)
@@ -75,6 +138,8 @@ Living Costs
     - [$5.5B (an increase of $2B) for low-cost financing for social and affortable dwellings](https://www.liberal.org.au/our-plan-housing-and-home-ownership#:~:text=Support%20greater%20investment%20into%20affordable%20housing%20with%20an%20additional%20%242%20billion%20in%20low%2Dcost%20financing%20for%20social%20and%20affordable%20dwellings.%20This%20brings%20total%20low%2Dcost%20financing%20to%20%245.5%20billion%2C%20supporting%20around%2027%2C500%20dwellings.)
 
 - Parental leave
+  - Greens
+    - [26 weeks of paid parent leave](https://greens.org.au/sites/default/files/2022-04/Greens-2022-Policy-Platform--Jobs--Women.pdf)
   - Labor Party
     - [26 weeks of paid parental leave funded through government and employer contributions](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf)
   - Liberal Party
@@ -91,6 +156,9 @@ Indigenous Australians
 ----------------------
 
 - Health
+  - Greens
+    - [$371M to community-led First Nations health services](https://greens.org.au/platform/first-nations#:~:text=%24371m%20to%20self%2Ddetermined%2C%20community%2Dled%20First%20Nations%20health%20services%20to%20increase%20their%20capacity%20to%20care%20for%20their%20own%20communities)
+    - [$1.07B to build First Nations owned healing places](https://greens.org.au/platform/first-nations#:~:text=Ensure%20people%20have%20early%20access%20to%20preventative%20programs%20and%20provide%20funding%20of%20%241.07b%20to%20build%20First%20Nations%20owned%20healing%20places)
   - Liberal Party
     -  [$4.6B over four years to improve health outcomes for Indigenous Australians](https://www.liberal.org.au/strengthening-australias-world-class-health-system#:~:text=The%20Coalition%20Government%20is,and%20mental%20health%20services.)
 
@@ -99,6 +167,11 @@ Indigenous Australians
     - [Will move towards a referendum to consitutionally enshrine an indigenous voice to parliament](https://www.alp.org.au/policies/first-nations#:~:text=We%20will%20progress%20a%20referendum%20to%20constitutionally%20enshrine%20a%20Voice%20to%20Parliament%20in%20the%20Constitution%20as%20a%20matter%20of%20priority.)
 
 - Justice
+  - Greens
+    - [$250M for a national Truth and Justice Commission](https://greens.org.au/platform/first-nations#:~:text=%24250m%20for%20a%20national%20Truth%20and%20Justice%20Commission%2C%20an%20independent%20body%20with%20the%20powers%20of%20a%20Royal%20Commission.%20The%20Commission%20would%20investigate%20and%20reveal%20historic%20and%20ongoing%20human%20rights%20abuses%2C%20wrongdoing%2C%20and%20provide%20recommendations%20on%20how%20to%20heal%20from%20them.%C2%A0)
+    - [$200K payment per survivor of the Stolen Generation, plust $7K for funeral expenses](https://greens.org.au/platform/first-nations#:~:text=Establish%20compensation%20scheme,for%20funeral%20expenses)
+    - [$310M/year extra for legal services](https://greens.org.au/platform/first-nations#:~:text=Double%20the%20funding%20for%20legal%20assistance%20services%20and%20provide%20an%20extra%20%24310%20million%20per%20year%20so%20all%20people%20have%20access%20to%20legal%20help%20when%20they%20need%20it%C2%A0)
+    - [$382M to establish independent police and prison oversight and ombudsman systems](https://greens.org.au/platform/first-nations#:~:text=%24382m%2C%20with%20equal%20contribution%20from%20the%20states%20and%20territories%2C%20to%20set%20up%20independent%20police%20and%20prison%20oversight%20mechanisms%20and%20establish%20a%20national%20police%20ombudsman%20system%20to%20investigate%20all%20police%20complaints)
   - Labor Party
     - [$79M to expand up to 30 local Justice Reinvestment initiatives, to "help turn the tide of incarceration and deaths in custody"](https://www.alp.org.au/policies/justice-reinvestment#:~:text=An%20Albanese%20Labor%20Government%20will%20commit%20%2479%20million%20to%20expand%20justice%20reinvestment%20initiatives%20across%20the%20country%20and%20help%20turn%20the%20tide%20on%20incarceration%20and%20deaths%20in%20custody.%E2%80%AF%E2%80%AF%C2%A0)
     - [Convene a national summit to ensure coordinated action on First Nations deaths in custody](https://www.alp.org.au/policies/justice-reinvestment#:~:text=Labor%20will%20convene%20a%20national%20summit%20bringing%20together%20First%20Nations%20and%20state%20and%20territory%20representatives%20to%20ensure%20coordinated%20action%20on%20First%20Nations%20deaths%20in%20custody.%C2%A0)
@@ -106,6 +179,9 @@ Indigenous Australians
 Foreign Aid
 -----------
 
+- Greens
+  - [Increase aid budget to 0.7% of GNI by 2030](https://greens.org.au/platform/world#:~:text=Increase%20Australia%E2%80%99s%20aid%20budget%20to%200.7%25%20of%20GNI%20by%202030)
+  - [Cancel loan repayments from countries in Global South who owe debt directly to Australia](https://greens.org.au/platform/world#:~:text=Cancel%20future%20loan%20repayments%20from%20all%20countries%20in%20the%20Global%20South%20who%20owe%20debt%20directly%20to%20Australia)
 - Labor Party
   - [Increase development assistance to Pacific countries by $525M over four years](https://alp.org.au/policies/labors-plan-to-build-a-stronger-pacific-family#:~:text=Labor%20will%20increase%20Australian%20Official%20Development%20Assistance%20to%20Pacific%20countries%20by%20%24525%20million%20over%20the%20four%20years%20from%202022%2D23%20to%202025%2D26.)
 - Liberal Party
@@ -115,6 +191,8 @@ Technology
 ----------
 
 - NBN
+  - Greens
+    - [Provide free broadband access to 1M households with a healthcare card](https://greens.org.au/platform/services#:~:text=Provide%20free%20broadband%20internet%20access%20for%20one%20million%20households%20with%20a%20healthcare%20card%2C%20including%20carers%2C%20students%2C%20low%2Dincome%20families%20and%20the%20unemployed.)
   - Labor Party
     - [Upgrades so that 10 million premises (90% of Australians) will have gigabit connections by 2025](https://www.alp.org.au/policies/fixing-the-nbn#:~:text=Under%20Labor%2C%2090%20per%20cent%20of%20Australians%20in%20the%20fixed%20line%20footprint%20%E2%80%94%20over%2010%20million%20premises%20%E2%80%94%20will%20have%20access%20to%20world%2Dclass%20gigabit%20speeds%20by%202025.%C2%A0)
     - [Up to 660K additional properties in regional areas connected by optical fibre](https://www.alp.org.au/policies/fixing-the-nbn#:~:text=Labor%E2%80%99s%20expansion%20will%20particularly%20benefit%20regional%20Australia%2C%20which%20has%20been%20left%20behind%20by%20the%20Morrison%2DJoyce%20Government%2C%20by%20providing%20up%20to%20660%2C000%20additional%20homes%20and%20business%20in%20our%20regions%20with%20access%20to%20optical%20fibre.%C2%A0)
@@ -130,3 +208,7 @@ Technology
 - Online trolls
   - Liberal Party
     - [Wants to introduce laws to hold social media companies more accountable for anonymous trolls](https://www.liberal.org.au/our-plan/families#:~:text=We%20also%20introduced%20new%20laws%20into%20the%20Parliament%20to%20hold%20social%20media%20companies%20more%20accountable%20for%20anonymous%20trolls%20online)
+
+- Right to repair
+  - Greens
+    - [Amend laws to deliver a right to repair](https://greens.org.au/platform/economy#:~:text=Amend%20the%20Consumer%20and%20Competition%20Regulations%20to%20deliver%20a%20right%20to%20repair)
