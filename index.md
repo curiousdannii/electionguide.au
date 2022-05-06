@@ -17,12 +17,16 @@ Asylum Seekers
     - [Scott Morrison as Immigration Minister enacted offshore processing policies](https://www.liberal.org.au/our-plan/national-security#:~:text=Our%20effective%20policies,offshore%20processing%3B)
     - [All children removed from detention](https://www.liberal.org.au/our-plan/border-security#:~:text=Stopping%20the%20boats%20has%20enabled%20the%20Government%20to%20close%2019%20detention%20centres%20and%20remove%20all%20children%20from%20detention.)
     - [Repealed Medevac laws](https://www.liberal.org.au/our-plan/border-security#:~:text=We%20repealed%20Labor%E2%80%99s%20reckless%20%E2%80%98Medevac%E2%80%99%20laws%2C%20which%20undermined%20our%20strong%20border%20protection%20regime.)
+  - Victorian Socialists
+    - [End boat turn backs, offshore detention, mandatory detention](https://www.victoriansocialists.org.au/our_platform#:~:text=Close%20offshore%20and,boat%20turn%2Dbacks)
 
 - Refugee settlement
   - Greens
     - [Increase intake to 50K/year. Provide additional 4K places for refugees from Afghanistan](https://greens.org.au/platform/equality#:~:text=Increase%20Australia%E2%80%99s%20humanitarian%20intake%20to%2050%2C000%20per%20year%0AProvide%20an%20additional%204%2C000%20humanitarian%20places%20for%20refugees%20from%20Afghanistan%20and%20protect%20Afghan%20citizens%20already%20in%20Australia%C2%A0)
   - Labor Party
     - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
+  - Victorian Socialists
+    - [Offer asylum to all refugges and asylum seekers on Manus and Nauru](https://www.victoriansocialists.org.au/our_platform#:~:text=Offer%20asylum%20to%20all%20refugees%20and%20asylum%20seekers%20on%20Manus%20and%20Nauru)
 
 Climate & Environment
 ---------------------
@@ -49,6 +53,8 @@ Climate & Environment
     - [technology, not taxes; investing $22B in low emissions technology](https://www.liberal.org.au/our-plan/environment#:~:text=This%20decade%2C%20the%20Government%20will%20invest%20more%20than%20%2422%20billion%20in%20low%20emissions%20technologies%2C%20driving%20over%20%2488%20billion%20of%20total%20investment%20to%20reduce%20emissions%20while%20growing%20the%20economy%20and%20creating%20jobs%20across%20Australia)
     - [will not put in place a mining tax, carbon tax, or change fuel tax credit arrangements](https://www.liberal.org.au/our-plan-resources#:~:text=put%20in%20place%20a%20mining%20tax%2C%20a%20carbon%20tax%20or%20make%20adverse%20changes%20in%20fuel%20tax%20credit%20arrangements%20so%20vital%20to%20the%20resources%20industry)
     - [increase natural gas production](https://www.liberal.org.au/our-plan-resources#:~:text=The%20Morrison%20Government%20has%20taken%20action%20to%20get%20more%20gas%20supply%20into%20the%20domestic%20market%20and%20increase%20competition%20to%20drive%20down%20prices.)
+  - Victorian Socialists
+    - [Zero emissions society by 2035](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20zero%20emissions%20economy%20by%202035)
 
 - Energy
   - Greens
@@ -62,6 +68,12 @@ Climate & Environment
     - [$200M for 400 community batteries (each could support 250 households)](https://www.alp.org.au/policies/community-batteries-for-household-solar)
   - Liberal Party
     - [$140M to hydrogen hubs](https://www.liberal.org.au/our-plan-resources#:~:text=invest%20%24140%20million%20in%20the%20development%20of%20two%20Hydrogen%20Hubs%20in%20Western%20Australia%20to%20accelerate%20the%20development%20of%20Australia%E2%80%99s%20hydrogen%20industry)
+  - Victorian Socialists
+    - [100% renewable energy by 2030](https://www.victoriansocialists.org.au/our_platform#:~:text=100%20percent%20of%20electricity%20from%20renewables%20by%202030), [but *not* nuclear power](https://www.victoriansocialists.org.au/our_platform#:~:text=An%20end%20to%20uranium%20mining%20and%20stopping%20any%20attempt%20to%20build%20an%20Australian%20nuclear%20industry)
+    - [Bring energy sector under public ownership and control](https://www.victoriansocialists.org.au/our_platform#:~:text=Bringing%20the%20energy%20sector%20under%20public%20ownership%20and%20democratic%20control)
+    - [Immediately ban new coal and gas mines, ban coal power by 2030](https://www.victoriansocialists.org.au/our_platform#:~:text=An%20immediate%20ban%20on%20new%20coal%20mines%20and%20a%20ban%20on%20coal%20fired%20power%20by%202030)
+  - Western Australia Party
+    - [WA has to transition to renewable energy sources](https://westernaustraliaparty.org.au/services/your-environment/#:~:text=Energy%20is%20going%20through%20a%20worldwide%20transition%2C%20from%20finite%20fossil%20fuel%20sources%20to%20renewable%20sources.%20Western%20Australia%20has%20to%20make%20this%20transition%20in%20a%20phased%20and%20responsible%20way%2C%20to%20maintain%20energy%20security%2C%20jobs%20and%20the%20economy.)
 
 - Environment
   - Greens
@@ -78,10 +90,14 @@ Climate & Environment
   - Liberal Party
     - [Guarantee not to support any shutdowns of native forestry](https://www.liberal.org.au/our-plan-australian-forestry#:~:text=guarantee%20not%20to%20support%20any%20shutdowns%20of%20native%20forestry)
     - [$4.4M to fight illegal logging](https://www.liberal.org.au/our-plan-australian-forestry#:~:text=invest%20%244.4%20million%20to%20strengthen%20Australia%E2%80%99s%20fight%20against%20illegal%20logging%20and%20stop%20illegal%20timber%20imports%20from%20undercutting%20Australian%20producers)
+  - Victorian Socialists
+    - [Ban logging of old-growth forests](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20ban%20on%20logging%20of%20old%2Dgrowth%20forests%20and%20an%20urgent%20program%20of%20reforestation%2C%20sustainable%20farming%20and%20biodiversity%20protection)
 
 - Public transport
   - Greens
     - [$25B more to rail and bus services, and $500M/year towards safe cycling and walking](https://greens.org.au/platform/climate#:~:text=Put%20an%20extra%20%2425%20billion%20into%20rail%20and%20bus%20services%20and%20%24500%20million%20per%20year%20into%20making%20cycling%20and%20walking%20safe%20and%20accessible%20and%20connecting%20people%20from%20the%20cities%2C%20to%20outer%20suburbs%20and%20regions%20with%20ease%20%C2%A0)
+  - Victorian Socialists
+    - [Make public transport publicly owned, safe, free](https://www.victoriansocialists.org.au/our_platform#:~:text=Making%20public%20transport%20publicly%20owned%2C%20safe%2C%20and%20free)
 
 - Recycling
   - Greens
@@ -91,6 +107,8 @@ Climate & Environment
   - Liberal Party
     - [$250M Recycling Modernisation Fund](https://www.liberal.org.au/our-plan/environment#:~:text=Our%20%24250%20million,been%20remade%20here.)
     - [Plastic, paper, tyres, glass waste recycled on-shore](https://www.liberal.org.au/our-plan/environment#:~:text=No%20longer%20are%20we%20exporting%20plastic%2C%20paper%2C%20tyres%20and%20glass%20waste.%20Instead%2C%20we%E2%80%99re%20recycling%20it%20here%20in%20Australia%20and%20creating%20over%2010%2C000%20jobs%20in%20the%20process.)
+  - Victorian Socialists
+    - [Invest in public owner recycling](https://www.victoriansocialists.org.au/our_platform#:~:text=Investment%20in%20publicly%20owned%20recycling%20and%20green%20tech%20facilities%20to%20reduce%20waste%20going%20to%20landfill.%20Take%20the%20private%20market%20out%20of%20the%20waste%20industry.)
 
 Political Integrity
 -------------------
@@ -104,6 +122,8 @@ Political Integrity
 - Political donations
   - Greens
     - [Ban political donations from the mining and resources sector, cap all other donations to $1000/year](https://greens.org.au/platform/democracy#:~:text=Get%20dirty%20money%20out%20of%20politics.%20We%20will%20ban%20all%20donations%20from%20coal%20and%20gas%20corporations%2C%20and%20cap%20all%20other%20donations%20to%20%241%2C000%20per%20year.%C2%A0)
+  - Western Australia Party
+    - [Abolish political donations from property developers](https://westernaustraliaparty.org.au/services/your-money/#:~:text=The%20Western%20Australia%20Party%20also%20supports%20the%20abolition%20of%20political%20donations%20from%20property%20developers%20and%20allied%20industries%2C%20which%20are%20already%20banned%20in%20most%20other%20states%2C%20which%20both%20major%20political%20parties%20receive.)
 
 - Transparency
   - Greens
@@ -113,6 +133,10 @@ Political Integrity
 
 Living Costs
 ------------
+
+- Basic Income
+  - Victorian Socialists
+    - [Support a guaranteed basic income for all](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20guaranteed%20basic%20income%20for%20all)
 
 - Education
   - Greens
@@ -126,6 +150,9 @@ Living Costs
     - [$246 to establish a national Centre for Disease Control](https://greens.org.au/platform/health#:~:text=Establish%20a%20National%20Centre%20for%20Disease%20Control%20with%20%24246%20million%20of%20funding%20to%20lead%20a%20unified%2C%20apolitical%20health%20approach%20across%20the%20entire%20country%20and%20ensure%20we%20can%20deal%20with%20the%20threat%20of%20new%20emerging%20diseases)
     - [$250M for Covid-19 research](https://greens.org.au/platform/health#:~:text=Invest%20%24250%20million%20over%20the%20next%20two%20years%20into%20Covid%2D19%20vaccine%20research)
     - [$68.5M for free pads and tampons in all schools](https://greens.org.au/platform/health#:~:text=Invest%20%2468.5%20million%20to%20provide%20free%20pads%20and%20tampons%20in%20all%20schools%20to%20improve%20students%E2%80%99%20health%20and%20wellbeing%2C%20reduce%20period%20stigma%2C%20and%20ensure%20that%20no%20student%20has%20to%20skip%20school%20during%20their%20period)
+  - Victorian Socialists
+    - [Make dental part of Medicare](https://www.victoriansocialists.org.au/our_platform#:~:text=Free%20dental%20care%20%2D%20make%20dental%20care%20part%20of%20Medicare)
+    - [Replace NDIS with Medicare-funded publicly run disability services](https://www.victoriansocialists.org.au/our_platform#:~:text=Replace%20NDIS%20with%20Medicare%2Dfunded%20publicly%20run%20disability%20services.)
 
 - Housing
   - Greens
@@ -136,6 +163,10 @@ Living Costs
     - [$1.6B for 4000 new social housing properties for women and children fleeing domestic violence](https://www.alp.org.au/policies/womens-safety#:~:text=%241.6%20billion%20will%20be%20spent%20to%20build%204000%20new%20social%20housing%20properties%20specifically%20allocated%20for%20women%20and%20children%20fleeing%20domestic%20and%20family%20violence.)
   - Liberal Party
     - [$5.5B (an increase of $2B) for low-cost financing for social and affortable dwellings](https://www.liberal.org.au/our-plan-housing-and-home-ownership#:~:text=Support%20greater%20investment%20into%20affordable%20housing%20with%20an%20additional%20%242%20billion%20in%20low%2Dcost%20financing%20for%20social%20and%20affordable%20dwellings.%20This%20brings%20total%20low%2Dcost%20financing%20to%20%245.5%20billion%2C%20supporting%20around%2027%2C500%20dwellings.)
+  - Victorial Socialists
+    - [End negative gearing](https://www.victoriansocialists.org.au/our_platform#:~:text=An%20end%20to%20negative%20gearing)
+    - [Expand public housing for indigenous communities](https://www.victoriansocialists.org.au/our_platform#:~:text=Facilitate%20a%20rapid%20and%20targeted%20expansion%20of%20public%20housing%20development%20to%20address%20chronic%20housing%20shortages%20and%20overcrowding%20within%20indigenous%20communities.)
+    - [Cap rents and mandatory mortgage repayments at 25% of household income](https://www.victoriansocialists.org.au/our_platform#:~:text=Cap%20rents%20and%20mandatory%20mortgage%20repayments%20at%2025%25%20of%20household%20income.)
 
 - Parental leave
   - Greens
@@ -165,6 +196,8 @@ Indigenous Australians
 - Indigenous voice to parliament
   - Labor Party
     - [Will move towards a referendum to consitutionally enshrine an indigenous voice to parliament](https://www.alp.org.au/policies/first-nations#:~:text=We%20will%20progress%20a%20referendum%20to%20constitutionally%20enshrine%20a%20Voice%20to%20Parliament%20in%20the%20Constitution%20as%20a%20matter%20of%20priority.)
+  - Victorian Socialists
+    - [Uphold the principle of Aboriginal self-determination beyond tokenistic Constitutional recognition](https://www.victoriansocialists.org.au/our_platform#:~:text=Victorian%20Socialists%27%20upholds%20the%20principle%20of%20Aboriginal%20self%2Ddetermination%20beyond%20tokenistic%20Constitutional%20recognition.)
 
 - Justice
   - Greens
@@ -175,6 +208,9 @@ Indigenous Australians
   - Labor Party
     - [$79M to expand up to 30 local Justice Reinvestment initiatives, to "help turn the tide of incarceration and deaths in custody"](https://www.alp.org.au/policies/justice-reinvestment#:~:text=An%20Albanese%20Labor%20Government%20will%20commit%20%2479%20million%20to%20expand%20justice%20reinvestment%20initiatives%20across%20the%20country%20and%20help%20turn%20the%20tide%20on%20incarceration%20and%20deaths%20in%20custody.%E2%80%AF%E2%80%AF%C2%A0)
     - [Convene a national summit to ensure coordinated action on First Nations deaths in custody](https://www.alp.org.au/policies/justice-reinvestment#:~:text=Labor%20will%20convene%20a%20national%20summit%20bringing%20together%20First%20Nations%20and%20state%20and%20territory%20representatives%20to%20ensure%20coordinated%20action%20on%20First%20Nations%20deaths%20in%20custody.%C2%A0)
+  - Victorian Socialists
+    - [Implement all the recommendations of the Royal Commission into Aboriginal Deaths in Custody](https://www.victoriansocialists.org.au/our_platform#:~:text=Implement%20all%20the%20recommendations%20of%20the%20Royal%20Commission%20into%20Aboriginal%20Deaths%20in%20Custody.)
+    - [End incarceration for unpaid fines and change bail laws](https://www.victoriansocialists.org.au/our_platform#:~:text=End%20incarceration%20for%20unpaid%20fines%20and%20support%20changes%20to%20bail%20laws%20that%20reduce%20the%20skyrocketing%20rate%20of%20Aboriginal%20men%20and%20women%20placed%20in%20remand%3B)
 
 Foreign Aid
 -----------
@@ -199,6 +235,8 @@ Technology
   - Liberal Party
     - [$470 to upgrade fixed wireless and satellite by 2024](https://www.liberal.org.au/our-plan/border-security#:~:text=We%20repealed%20Labor%E2%80%99s%20reckless%20%E2%80%98Medevac%E2%80%99%20laws%2C%20which%20undermined%20our%20strong%20border%20protection%20regime.)
     - [$4.5B to upgrade 8 million fixed line premises to gigabit connections by end of 2023](https://www.liberal.org.au/our-plan/broadband#:~:text=%244.5%20billion%20to%20provide%20around%208%20million%20fixed%2Dline%20premises%20across%20regional%20and%20metro%20Australia%20with%20access%20to%20ultra%2Dfast%20broadband%20speeds%20of%20up%20to%201%20gigabit%20per%20second%20by%20the%20end%20of%202023.), [via private debt markets, not government funding](https://www.liberal.org.au/our-plan/broadband#:~:text=NBN%20Co%20is%20fully%20funding%20the%20%244.5%20billion%20upgrade%20via%20private%20debt%20markets%20at%20a%20time%20of%20low%20interest%20rates%20%2D%20there%20is%20no%20further%20government%20funding.)
+  - Victorian Socialists
+    - [Replace the NBN with a publicly owned and run broadband network that provides free high speed internet to every residential property](https://www.victoriansocialists.org.au/our_platform#:~:text=Replacing%20NBN%20with%20an%20integrated%2C%20publicly%20owned%20and%20run%20broadband%20network%20that%20provides%20free%20high%20speed%20internet%20to%20every%20residential%20property.%20In%20contemporary%20society%2C%20high%2Dspeed%20internet%20access%20is%20necessary%20for%20full%20participation%20in%20society%20and%20so%20should%20be%20guaranteed%20as%20a%20right%20for%20everyone.)
 
 - Online scams
   - Labor Party
