@@ -20,12 +20,12 @@ At a Glance
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
   <tr><td>Australian Christians</td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
-  <tr><td>Australian Democrats</td><td class="good">Good</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="fair">Fair</td></tr>
-  <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
+  <tr><td>Australian Democrats</td><td class="good">Good</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="fair">Fair</td></tr>
+  <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="great">Great</td><td class="good">Good</td></tr>
   <tr><td>Labor Party</td><td class="bad">Bad</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="meh">Meh</td><td class="fair">Fair</td></tr>
   <tr><td>Liberal Democrats</td><td></td><td class="abysmal">Abysmal</td><td class="meh">Meh</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>Liberal Party</td><td class="bad">Bad</td><td class="bad">Bad</td><td></td><td class="meh">Meh</td><td class="poor">Poor</td><td></td><td class="meh">Meh</td></tr>
+  <tr><td>Liberal Party</td><td class="bad">Bad</td><td class="bad">Bad</td><td></td><td class="meh">Meh</td><td class="poor">Poor</td><td class="poor">Poor</td><td class="meh">Meh</td></tr>
   <tr><td>One Nation</td><td class="abysmal">Abysmal</td><td class="abysmal">Abysmal</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>United Australia Party</td><td></td><td class="poor">Poor</td><td class="meh">Meh</td><td class="meh">Meh</td><td></td><td></td><td></td></tr>
   <tr><td>Victorian Socialists</td><td class="good">Good</td><td class="good">Good</td><td></td><td class="good">Good</td><td class="good">Good</td><td></td><td class="meh">Meh</td></tr>
@@ -200,7 +200,7 @@ Political Integrity
 
 - Anti-corruption commission
   - Australian Democrats
-    - [An independent National Integrity Commission, with the powers of a royal commission and ablee to conduct public hearings](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20NIS%20must,from%20the%20public%E2%80%AF.)
+    - [An independent National Integrity Commission, with the powers of a royal commission and able to conduct public hearings](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20NIS%20must,from%20the%20public%E2%80%AF.)
   - Fusion
     - [Create a federal anti-corruption commission with retrospective powers and open hearings](https://www.fusionparty.org.au/ethical_governance#:~:text=Create%20an%20anti%2Dcorruption%20commission%20at%20the%20federal%20level%2C%20with%20retrospective%20powers%20and%20open%20hearings.)
     - [More protection for whistleblowers and activists](https://www.fusionparty.org.au/ethical_governance#:~:text=Implement%20protections%20for%20whistleblowers%20and%20activists)
