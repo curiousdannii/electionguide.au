@@ -1,5 +1,6 @@
 ---
 title: Dannii's Opinionated Guide to the 2022 Australian Federal Election
+image: 2022.png
 ---
 
 Dannii's Opinionated Guide to the 2022 Australian Federal Election
@@ -14,7 +15,7 @@ At a Glance
 
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
-  <tr><td>Australian Christians></td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
+  <tr><td>Australian Christians</td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td></tr>
   <tr><td>Labor Party</td><td class="bad">Bad</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="meh">Meh</td><td class="fair">Fair</td></tr>
