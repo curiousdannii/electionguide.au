@@ -25,6 +25,8 @@ Asylum Seekers
     - [Increase intake to 50K/year. Provide additional 4K places for refugees from Afghanistan](https://greens.org.au/platform/equality#:~:text=Increase%20Australia%E2%80%99s%20humanitarian%20intake%20to%2050%2C000%20per%20year%0AProvide%20an%20additional%204%2C000%20humanitarian%20places%20for%20refugees%20from%20Afghanistan%20and%20protect%20Afghan%20citizens%20already%20in%20Australia%C2%A0)
   - Labor Party
     - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
+  - One Nation
+    - [Reduce rfugee intake and withdraw from the UN refugee convention](https://www.onenation.org.au/refugees#:~:text=We%20believe%20in,1951%20Refugee%20Convention.)
   - Victorian Socialists
     - [Offer asylum to all refugges and asylum seekers on Manus and Nauru](https://www.victoriansocialists.org.au/our_platform#:~:text=Offer%20asylum%20to%20all%20refugees%20and%20asylum%20seekers%20on%20Manus%20and%20Nauru)
 
@@ -53,6 +55,9 @@ Climate & Environment
     - [technology, not taxes; investing $22B in low emissions technology](https://www.liberal.org.au/our-plan/environment#:~:text=This%20decade%2C%20the%20Government%20will%20invest%20more%20than%20%2422%20billion%20in%20low%20emissions%20technologies%2C%20driving%20over%20%2488%20billion%20of%20total%20investment%20to%20reduce%20emissions%20while%20growing%20the%20economy%20and%20creating%20jobs%20across%20Australia)
     - [will not put in place a mining tax, carbon tax, or change fuel tax credit arrangements](https://www.liberal.org.au/our-plan-resources#:~:text=put%20in%20place%20a%20mining%20tax%2C%20a%20carbon%20tax%20or%20make%20adverse%20changes%20in%20fuel%20tax%20credit%20arrangements%20so%20vital%20to%20the%20resources%20industry)
     - [increase natural gas production](https://www.liberal.org.au/our-plan-resources#:~:text=The%20Morrison%20Government%20has%20taken%20action%20to%20get%20more%20gas%20supply%20into%20the%20domestic%20market%20and%20increase%20competition%20to%20drive%20down%20prices.)
+  - One Nation
+    - [Withdraw from Paris Agreement](https://www.onenation.org.au/climate#:~:text=One%20Nation%20believes%20Australia%20should%20withdraw%20from%20the%20United%20Nations%20Paris%20Agreement%20signed%20in%202016.)
+    - [Climate change skepticism](https://www.onenation.org.au/climate)
   - Victorian Socialists
     - [Zero emissions society by 2035](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20zero%20emissions%20economy%20by%202035)
 
@@ -68,6 +73,10 @@ Climate & Environment
     - [$200M for 400 community batteries (each could support 250 households)](https://www.alp.org.au/policies/community-batteries-for-household-solar)
   - Liberal Party
     - [$140M to hydrogen hubs](https://www.liberal.org.au/our-plan-resources#:~:text=invest%20%24140%20million%20in%20the%20development%20of%20two%20Hydrogen%20Hubs%20in%20Western%20Australia%20to%20accelerate%20the%20development%20of%20Australia%E2%80%99s%20hydrogen%20industry)
+  - One Nation
+    - [Supports building new low-emission coal-fired power stations](https://www.onenation.org.au/energy#:~:text=One%20Nation%20will%20apply%20a%20national%20plan%20that%20guarantees%20low%2Dcost%2C%20reliable%2C%20dispatchable%20power%20by%20building%20new%20low%2Demission%20coal%2Dfired%20power%20stations.)
+  - United Australia Party
+    - [Start moving towards nuclear power stations in Australia](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=End%20Australia%E2%80%99s%20Energy,can%20compete%20internationally.)
   - Victorian Socialists
     - [100% renewable energy by 2030](https://www.victoriansocialists.org.au/our_platform#:~:text=100%20percent%20of%20electricity%20from%20renewables%20by%202030), [but *not* nuclear power](https://www.victoriansocialists.org.au/our_platform#:~:text=An%20end%20to%20uranium%20mining%20and%20stopping%20any%20attempt%20to%20build%20an%20Australian%20nuclear%20industry)
     - [Bring energy sector under public ownership and control](https://www.victoriansocialists.org.au/our_platform#:~:text=Bringing%20the%20energy%20sector%20under%20public%20ownership%20and%20democratic%20control)
@@ -130,6 +139,8 @@ Political Integrity
     - [Require major projects over $100M to have an independent evaluation and community consulation](https://greens.org.au/platform/services#:~:text=Ensure%20the%20community%20is%20at%20the%20centre%20of%20project%20planning%20by%20requiring%20major%20projects%20over%20%24100%20million%20to%20have%20an%20independent%20evaluation%20and%20community%20consultation.%C2%A0)
     - [Publish a register of meetings between Ministers and mining lobbyists](https://greens.org.au/platform/democracy#:~:text=Publish%20a%20register%20of%20meetings%20between%20Ministers%20and%20mining%20lobbyists%20to%20improve%20transparency%20and%20shine%20a%20light%20on%20dodgy%20deals)
     - [Stop Ministers taking industry jobs in industries they used to regulate within 5 years of leaving parliament](https://greens.org.au/platform/democracy#:~:text=Stop%20Ministers%20taking%20cushy%20industry%20jobs%20in%20industries%20they%20used%20to%20regulate%20within%205%20years%20of%20leaving%20parliament)
+  - United Australia Party
+    - [Stop lobbyists holding official positions in political parties](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=The%20United%20Australia%20Party%20believes%20lobbyists%20should%20be%20excluded%20from%20holding%20official%20positions%20in%20political%20parties.)
 
 Living Costs
 ------------
@@ -141,6 +152,8 @@ Living Costs
 - Education
   - Greens
     - [Wipe out student debt, and make TAFE and university free for everyone](https://greens.org.au/platform/economy#:~:text=Wipe%20out%20student%20debt.%C2%A0Fully%20fund%20unlimited%20free%20TAFE%2C%20university%20for%20everyone)
+  - United Australia Party
+    - [Abolish HECS debts](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=Abolish%20HECS%20debts%20for%20students)
 
 - Health
   - Greens
