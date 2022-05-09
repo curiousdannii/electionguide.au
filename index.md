@@ -6,12 +6,16 @@ image: 2022.png
 Dannii's Opinionated Guide to the 2022 Australian Federal Election
 ==================================================================
 
-Welcome to my guide to the 2022 Australian Federal Election. This is opinionated in that the issues I cover are the ones that I personally think are most important, but I aim for my description of each party's policies within those categories to be factual. If you see an error, or something I missed, [let me know here](https://github.com/curiousdannii/electionguide.au/issues).
+Welcome to my guide to the 2022 Australian Federal Election. This is opinionated in that the issues I cover are the ones that I personally think are most important, but I aim for my description of each party's policies within those categories to be factual. If you see an error, or something I missed, [let me know here](https://github.com/curiousdannii/electionguide.au/issues). I'm still adding the micro parties, there are a lot of them!
 
 Remember, **you can't waste your vote in Australian elections!** Remember to number all candidates in the House of Representatives, and at least 6 above the line (or 12 below the line) in the Senate. You can safely give your first preference vote to a minor party and then vote for your preferred major party afterwards.
 
 At a Glance
 ===========
+
+<table>
+  <tr><th>Ranking</th><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="meh">Meh</td><td class="poor">Poor</td><td class="bad">Bad</td><td class="abysmal">Abysmal</td></tr>
+</table>
 
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
