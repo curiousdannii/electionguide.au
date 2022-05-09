@@ -21,12 +21,14 @@ Asylum Seekers
     - [End boat turn backs, offshore detention, mandatory detention](https://www.victoriansocialists.org.au/our_platform#:~:text=Close%20offshore%20and,boat%20turn%2Dbacks)
 
 - Refugee settlement
+  - Fusion
+    - [Support political asylum for refugees, particularly for whistleblowers and those exiled for defending democratic freedoms](https://www.fusionparty.org.au/fair_foreign_policy#:~:text=Support%20political%20asylum%20for%20refugees%2C%20particularly%20for%20whistleblowers%20and%20those%20exiled%20for%20defending%20democratic%20freedoms.)
   - Greens
     - [Increase intake to 50K/year. Provide additional 4K places for refugees from Afghanistan](https://greens.org.au/platform/equality#:~:text=Increase%20Australia%E2%80%99s%20humanitarian%20intake%20to%2050%2C000%20per%20year%0AProvide%20an%20additional%204%2C000%20humanitarian%20places%20for%20refugees%20from%20Afghanistan%20and%20protect%20Afghan%20citizens%20already%20in%20Australia%C2%A0)
   - Labor Party
     - [Prioritise suitable third country resettlement agreements](https://alp.org.au/media/2594/2021-alp-national-platform-final-endorsed-platform.pdf) - ["No one who has attempted to come by boat since the operation of Sovereign Borders will be allowed to settle in Australia."](https://www.theguardian.com/australia-news/2022/apr/19/factcheck-is-labors-policy-on-asylum-seekers-and-refugees-any-different-to-the-coalitions#:~:text=%E2%80%9CNo%20one%20who%20has%20attempted%20to%20come%20by%20boat%20since%20the%20operation%20of%20Sovereign%20Borders%20will%20be%20allowed%20to%20settle%20in%20Australia.%E2%80%9D)
   - One Nation
-    - [Reduce rfugee intake and withdraw from the UN refugee convention](https://www.onenation.org.au/refugees#:~:text=We%20believe%20in,1951%20Refugee%20Convention.)
+    - [Reduce refugee intake and withdraw from the UN refugee convention](https://www.onenation.org.au/refugees#:~:text=We%20believe%20in,1951%20Refugee%20Convention.)
   - Victorian Socialists
     - [Offer asylum to all refugges and asylum seekers on Manus and Nauru](https://www.victoriansocialists.org.au/our_platform#:~:text=Offer%20asylum%20to%20all%20refugees%20and%20asylum%20seekers%20on%20Manus%20and%20Nauru)
 
@@ -34,6 +36,10 @@ Climate & Environment
 ---------------------
 
 - Electric vehicles
+  - Fusion
+    - [All governments switch to electric vehicles](https://www.fusionparty.org.au/climate_emergency#:~:text=All%20governments%20replace%20their%20fleets%20with%20electric%20vehicles.)
+    - [National charging network](https://www.fusionparty.org.au/climate_emergency#:~:text=Roll%20out%20a%20nationally%20coordinated%20electric%20vehicle%20charging%20network.)
+    - [Remove luxury tax from electric vehicles](https://www.fusionparty.org.au/climate_emergency#:~:text=Remove%20the%20luxury%20tax%20from%20electric%20vehicles.)
   - Greens
     - [Reduce cost of electric vehicles by up to $15K](https://greens.org.au/platform/climate#:~:text=Help%20you%20buy%20your%20first%20EV%2C%20reducing%20the%20cost%20of%20an%20electric%20vehicle%20by%20up%20to%20%2415%2C000%20and%20provide%20ultra%2Dcheap%20finance%20for%20the%20balance)
     - [$2B for publicly owned fast EV charging network](https://greens.org.au/platform/climate#:~:text=Build%20a%20%242%20billion%20publicly%20owned%20EV%20fast%20charging%20network%2C%20ensuring%20that%20you%E2%80%99ll%20always%20have%20a%20place%20to%20fuel%20up)
@@ -44,12 +50,18 @@ Climate & Environment
     - [Remove import tariffs and fringe benefits tax from electric cars](https://www.alp.org.au/policies/electric-car-discount#:~:text=As%20part%20of,for%20private%20use.)
 
 - Emissions
+  - Fusion
+    - [10 year net zero target (2032)](https://www.fusionparty.org.au/climate_emergency#:~:text=10%2Dyear%20transition%20to%20negative%20emissions)
+    - [No new fossil fuel projects](https://www.fusionparty.org.au/ecological_restoration#:~:text=No%20new%20fossil%20fuel%20projects.), [and a 2 year window to stop current fossil fuel extraction](https://www.fusionparty.org.au/ecological_restoration#:~:text=2%2Dyear%20window%20to%20cease%20fossil%20fuel%20extraction)
+    - [End all government subsidies to fossil fuels, land clearning, and native forest logging](https://www.fusionparty.org.au/ecological_restoration#:~:text=Cease%20all%20government%20subsidy%20to%20fossil%20fuels%2C%20land%20clearing%20and%20native%20forest%20logging.)
   - Greens
     - ?
   - Labor Party
     - [43% reduction by 2030, net zero by 2050](https://www.alp.org.au/policies/powering-australia#:~:text=our%20plan%20will%20reduce%20Australia%E2%80%99s%20emissions%20by%2043%25%20by%202030%20%E2%80%93%20which%20will%20become%20Australia%E2%80%99s%20target%20under%20the%20Paris%20Agreement%2C%20keeping%20us%20on%20track%20for%20net%20zero%20by%202050.)
     - [Reduce the public service's emissions to zero by 2030](https://www.alp.org.au/policies/powering-australia#:~:text=Demonstrate%20Commonwealth%20leadership%20by%20reducing%20the%20Australian%20Public%20Service%E2%80%99s%20own%20emissions%20to%20net%20zero%20by%202030.)
     - [$20B to upgrade the electricity grid](https://keystone-alp.s3-ap-southeast-2.amazonaws.com/prod/61a9693a3f3c53001f975017-PoweringAustralia.pdf)
+  - Liberal Democrats
+    - [No net-zero](https://www.ldp.org.au/cheap_energy#:~:text=No%20net%2Dzero%20emissions%20target.%20This%20target%20is%20an%20absurd%20extension%20of%20climate%20alarmist%20ideology%20that%20will%20have%20grave%20effects%20on%20living%20standards%20for%20all%20Australians%20if%20it%20is%20pursued.) or [renewable energy](https://www.ldp.org.au/cheap_energy#:~:text=Abolish%20the%20renewable%20energy%20target%20(RET).%20The%20RET%20is%20a%20significant%20contributor%20to%20Australia%E2%80%99s%20runaway%20electricity%20prices.%20It%20has%20created%20a%20muddled%20and%20complex%20regulatory%20framework%20and%20taken%20away%20the%20incentive%20for%20investment%20into%20cheaper%20energy%20sources.) targets
   - Liberal Party
     - [30-35% reduction by 2030, next zero by 2050](https://www.liberal.org.au/our-plan/environment#:~:text=of%20climate%20change.-,REDUCING%20EMISSIONS,-We%20are%20on)
     - [technology, not taxes; investing $22B in low emissions technology](https://www.liberal.org.au/our-plan/environment#:~:text=This%20decade%2C%20the%20Government%20will%20invest%20more%20than%20%2422%20billion%20in%20low%20emissions%20technologies%2C%20driving%20over%20%2488%20billion%20of%20total%20investment%20to%20reduce%20emissions%20while%20growing%20the%20economy%20and%20creating%20jobs%20across%20Australia)
@@ -62,6 +74,8 @@ Climate & Environment
     - [Zero emissions society by 2035](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20zero%20emissions%20economy%20by%202035)
 
 - Energy
+  - Fusion
+    - [800% renewable energy target - so that we can export renewable energy to other nations](https://www.fusionparty.org.au/climate_emergency#:~:text=800%25%20Renewables%20%2D%20Leading%20the%20international%20effort)
   - Greens
     - [Immediately ban the construction of new fossil fuel power infrastructure](https://greens.org.au/platform/climate#:~:text=Immediately%20ban%20the%20construction%20of%20new%20coal%2C%20oil%20and%20gas%20infrastructure%2C%20ensuring%20we%20can%20transition%20our%20economy%20to%20zero%20carbon%20energy%20while%20maintaining%20a%20safe%20climate)
     - [Stop $10B/year of subsidies to fossil fuel companies](https://greens.org.au/platform/climate#:~:text=Stop%20the%20massive%20subsidies%20to%20big%20coal%2C%20oil%20and%20gas%20corporations%20%2D%20over%20%2410b%20each%20year%20and%20reinvest%20the%20money%20into%20the%20clean%20energy%20transition%C2%A0)
@@ -71,6 +85,9 @@ Climate & Environment
     - [Create a publicly owned non-profit power retailer to bring down prices](https://greens.org.au/platform/services#:~:text=The%20creation%20of%20a%20publicly%20owned%20non%2Dprofit%20power%20retailer%2C%20to%20push%20power%20prices%20down%20and%20end%20price%20gouging%20by%20the%20big%20energy%20companies)
   - Labor Party
     - [$200M for 400 community batteries (each could support 250 households)](https://www.alp.org.au/policies/community-batteries-for-household-solar)
+  - Liberal Democrats
+    - [Abolish subsidies for renewable energy](https://www.ldp.org.au/debt_and_deficit#:~:text=Abolish%20subsidies%20for%20renewable%20energy.%20Renewable%20energy%20companies%20had%20over%20a%20decade%20of%20taxpayer%20funds%20in%20an%20effort%20to%20deliver%20low%20cost%20energy%20%E2%80%93%20it%E2%80%99s%20time%20for%20them%20to%20compete%20in%20the%20free%20market.)
+    - [Pro nuclear power](https://www.ldp.org.au/cheap_energy#:~:text=cheaper%20energy%20sources.-,Nuclear,-Nuclear%20energy%20is)
   - Liberal Party
     - [$140M to hydrogen hubs](https://www.liberal.org.au/our-plan-resources#:~:text=invest%20%24140%20million%20in%20the%20development%20of%20two%20Hydrogen%20Hubs%20in%20Western%20Australia%20to%20accelerate%20the%20development%20of%20Australia%E2%80%99s%20hydrogen%20industry)
   - One Nation
@@ -85,6 +102,8 @@ Climate & Environment
     - [WA has to transition to renewable energy sources](https://westernaustraliaparty.org.au/services/your-environment/#:~:text=Energy%20is%20going%20through%20a%20worldwide%20transition%2C%20from%20finite%20fossil%20fuel%20sources%20to%20renewable%20sources.%20Western%20Australia%20has%20to%20make%20this%20transition%20in%20a%20phased%20and%20responsible%20way%2C%20to%20maintain%20energy%20security%2C%20jobs%20and%20the%20economy.)
 
 - Environment
+  - Fusion
+    - [Multiply the Indigenous Ranger Program](https://www.fusionparty.org.au/ecological_restoration#:~:text=Multiply%20the%20capacity%20of%20the%20Indigenous%20Ranger%20Program%20to%20help%20implement%20Area%20Ecological%20Restoration%20plans.)
   - Greens
     - [$2B/year for replanting trees and reestablishing green spaces in our cities, suburbs, and regions](https://greens.org.au/platform/enviro#:~:text=Green%20Australia%20and%20restore%20wildlife%20habitat%20by%20investing%20%242b%20each%20year%20to%20plant%202%20billion%20trees%20by%202030%20to%20reestablish%20green%20space%20in%20our%20cities%2C%20regions%20and%20suburbs)
     - [$767M to expand First Nations ranger program, and return land to First Nations management](https://greens.org.au/platform/first-nations#:~:text=%24767m%20over%20the%20forward%20estimates%20to%20expand%20the%20First%20Nations%20ranger%20programs%20and%20Indigenous%20Protected%20Areas%20to%20heal%20Country%20by%20returning%20land%20to%20First%20Nations%20management%20and%20providing%20long%2Dterm%20sustainable%20jobs)
@@ -94,6 +113,8 @@ Climate & Environment
     - [$34M to establish a national water commission to reform use of water resources](https://alp.org.au/policies/labors-plan-to-future-proof-australias-water-resources#:~:text=The%20details,National%20Water%20Commission.)
 
 - Forestry
+  - Fusion
+    - [End native logging](https://www.fusionparty.org.au/ecological_restoration#:~:text=When%20forests%20are,preserve%20remnant%20vegetation.)
   - Greens
     - [End land clearing and native forest logging](https://greens.org.au/platform/climate#:~:text=Ending%20land%20clearing%20and%20native%20forest%20logging%20so%20we%20can%20ensure%20we%20protect%20the%20carbon%20already%20in%20our%20native%20forests%20and%20grasslands)
   - Liberal Party
@@ -123,14 +144,21 @@ Political Integrity
 -------------------
 
 - Anti-corruption commission
+  - Fusion
+    - [Create a federal anti-corruption commission with retrospective powers and open hearings](https://www.fusionparty.org.au/ethical_governance#:~:text=Create%20an%20anti%2Dcorruption%20commission%20at%20the%20federal%20level%2C%20with%20retrospective%20powers%20and%20open%20hearings.)
+    - [More protection for whistleblowers and activists](https://www.fusionparty.org.au/ethical_governance#:~:text=Implement%20protections%20for%20whistleblowers%20and%20activists)
   - Greens
     - [Create a strong Federal integrity commission](https://greens.org.au/platform/democracy#:~:text=Creation%20of%20a%20strong%20Federal%20integrity%20commission%20to%20shine%20a%20light%20on%20corruption%20and%20unethical%20behaviour%2C%20and%20hold%20corrupt%20politicians%C2%A0accountable)
   - Labor Party
     - [Will legislate a powerful, transparent, and independent national anti-corruption commission by end of 2022](https://www.alp.org.au/policies/fighting-corruption)
 
 - Political donations
+  - Fusion
+    - [Real time disclosure of political donations over $1000](https://www.fusionparty.org.au/ethical_governance#:~:text=Real%2Dtime%20disclosure%20of%20political%20donations%20above%20%241000%20to%20show%20flows%20of%20influence%20over%20politicians)
   - Greens
     - [Ban political donations from the mining and resources sector, cap all other donations to $1000/year](https://greens.org.au/platform/democracy#:~:text=Get%20dirty%20money%20out%20of%20politics.%20We%20will%20ban%20all%20donations%20from%20coal%20and%20gas%20corporations%2C%20and%20cap%20all%20other%20donations%20to%20%241%2C000%20per%20year.%C2%A0)
+  - Liberal Democrats
+    - [Abolish taxpayer funding of political parties](https://www.ldp.org.au/debt_and_deficit#:~:text=Abolish%20taxpayer%20funding%20of%20political%20parties.%20This%20is%20a%20scheme%20created%20for%20major%20parties%2C%20by%20major%20parties.%20It%20not%20only%20contributes%20to%20debt%2C%20it%20also%20gives%20incumbent%20politicians%20an%20unfair%20advantage%20and%20entrenches%20the%20status%20quo.)
   - Western Australia Party
     - [Abolish political donations from property developers](https://westernaustraliaparty.org.au/services/your-money/#:~:text=The%20Western%20Australia%20Party%20also%20supports%20the%20abolition%20of%20political%20donations%20from%20property%20developers%20and%20allied%20industries%2C%20which%20are%20already%20banned%20in%20most%20other%20states%2C%20which%20both%20major%20political%20parties%20receive.)
 
@@ -146,6 +174,8 @@ Living Costs
 ------------
 
 - Basic Income
+  - Fusion
+    - [Universal Basic Income of $500/week for every citizen over 18 years, replacing many conditional welfare streams](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Direct%20payment%20of,flat%20tax%20rate.)
   - Victorian Socialists
     - [Support a guaranteed basic income for all](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20guaranteed%20basic%20income%20for%20all)
 
@@ -156,6 +186,8 @@ Living Costs
     - [Abolish HECS debts](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=Abolish%20HECS%20debts%20for%20students)
 
 - Health
+  - Fusion
+    - [Add basic mental and dental health to medicare](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Add%20basic%20mental%20and%20dental%20health%20to%20medicare)
   - Greens
     - [$4.8B for mental healthcare, including unlimited sessions with psychologists/psychiatrists with no out of pocket expenses](https://greens.org.au/platform/health#:~:text=Invest%20%244.8%20billion%20to%20ensure%20mental%20healthcare%20is%20fully%20covered%20under%20Medicare%20by%20providing%20unlimited%20sessions%20with%20a%20psychologist%20or%20psychiatrist%20with%20no%20out%20of%20pocket%20fees%20so%20everyone%20can%20get%20the%20support%20they%20need%2C%20when%20they%20need%20it%2C%20at%20every%20stage%20of%20their%20mental%20health%20journey)
     - [Make free Medicare-funded dental care to all](https://greens.org.au/platform/health#:~:text=Provide%20Medicare%2Dfunded%20free%20dental%20care%20to%20all%2C%20accessible%20through%20your%20Medicare%20card%20so%20everyone%20can%20visit%20the%20dentist%20when%20they%20need%20to)
@@ -168,6 +200,11 @@ Living Costs
     - [Replace NDIS with Medicare-funded publicly run disability services](https://www.victoriansocialists.org.au/our_platform#:~:text=Replace%20NDIS%20with%20Medicare%2Dfunded%20publicly%20run%20disability%20services.)
 
 - Housing
+  - Fusion
+    - [Stop tax structures that treat hosing as an investment, such as capital gains tax discount](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Cease%20tax%20structures%20that%20incentivise%20properties%20as%20a%20portfolio%20investments%20such%20as%20the%20capital%20gains%20tax%20discount)
+    - [Replace stamp duty with a land tax to ensure housing is not left vacant as an asset](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Replace%20stamp%20duty%20with%20more%20equitable%20revenue%20streams%20such%20as%20land%2Dtax%2C%20to%20ensure%20housing%20is%20not%20left%20vacant%20solely%20as%20an%20asset.)
+    - [Increase social/affordable housing stock](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Increase%20social/affordable%20housing%20stock.)
+    - [Increase zoned densities to reduce sprawl into bushland](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Allow%20increased%20zoning%20densities%20to%20enhance%20supply%20and%20limit%20urban%2Dsprawl%20into%20surrounding%20bushland.)
   - Greens
     - [Build a million new affordable, accessible, sustainable homes to clear public housing waiting lists](https://greens.org.au/platform/economy#:~:text=Build%20a%20million%20new%2C%20affordable%2C%20accessible%20and%20sustainable%20new%20homes%20to%20clear%20public%20housing%20waiting%20lists%2C%20make%20housing%20more%20affordable%2C%20end%20homelessness%2C%20and%20ensure%20everyone%20has%20a%20roof%20over%20their%20head): [750K public and community houses, 125K new shared ownership homes, 125K public rental homes](https://greens.org.au/platform/services#:~:text=750%2C000%20new%20public,towards%20universal%20housing)
     - [$7B in grants to improve existing homes making them warmer in winter and cooler in summer](https://greens.org.au/platform/economy#:~:text=Improve%20existing%20homes%20with%20%247%20billion%20in%20capital%20grants%20to%20make%20homes%20warmer%20in%20winter%20and%20cooler%20in%20summer)
@@ -207,6 +244,9 @@ Indigenous Australians
     -  [$4.6B over four years to improve health outcomes for Indigenous Australians](https://www.liberal.org.au/strengthening-australias-world-class-health-system#:~:text=The%20Coalition%20Government%20is,and%20mental%20health%20services.)
 
 - Indigenous voice to parliament
+  - Fusion
+    - [Supports the Uluru Statement from the Heart, and a First Nations Voice in Parliament](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=In%20line%20with,Voice%20in%20Parliament.)
+    - [Supports a treat with First Nations](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=FUSION%20supports%20steps,sovereign%20to%20sovereign.)
   - Labor Party
     - [Will move towards a referendum to consitutionally enshrine an indigenous voice to parliament](https://www.alp.org.au/policies/first-nations#:~:text=We%20will%20progress%20a%20referendum%20to%20constitutionally%20enshrine%20a%20Voice%20to%20Parliament%20in%20the%20Constitution%20as%20a%20matter%20of%20priority.)
   - Victorian Socialists
@@ -228,6 +268,8 @@ Indigenous Australians
 Foreign Aid
 -----------
 
+- Fusion
+  - [Expand use of diplomacy and aid in support of global human rights](https://www.fusionparty.org.au/fair_foreign_policy#:~:text=Expand%20use%20of%20diplomacy%20and%20aid%20in%20support%20of%20global%20human%20rights)
 - Greens
   - [Increase aid budget to 0.7% of GNI by 2030](https://greens.org.au/platform/world#:~:text=Increase%20Australia%E2%80%99s%20aid%20budget%20to%200.7%25%20of%20GNI%20by%202030)
   - [Cancel loan repayments from countries in Global South who owe debt directly to Australia](https://greens.org.au/platform/world#:~:text=Cancel%20future%20loan%20repayments%20from%20all%20countries%20in%20the%20Global%20South%20who%20owe%20debt%20directly%20to%20Australia)
