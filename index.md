@@ -248,7 +248,7 @@ Living Costs
 
 - Health
   - Australian Democrats
-    - [Provide children and concession card holders with comprehensive dental care, then incrementally move towards universal dental](https://www.democrats.org.au/our-health-plan/#:~:text=Provide%20children%20(aged,towards%20universal%20dental)
+    - [Provide children and concession card holders with comprehensive dental care, then incrementally move towards universal dental](https://www.democrats.org.au/our-health-plan/#:~:text=Secure%20permanent%20funding,towards%20universal%20dental)
     - [Supports a national mental health plan, including new funding](https://www.democrats.org.au/our-health-plan/#:~:text=A%20National%20Mental%20Health%20Action%20plan%C2%A0underpinned%20by%20the%20recommendations%20of%20the%202020%20Productivity%20Commission%20Mental%20Health%20Inquiry%20Report%2C%20with%20significant%20new%20funding%20and%20system%20reform.)
   - Fusion
     - [Add basic mental and dental health to medicare](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Add%20basic%20mental%20and%20dental%20health%20to%20medicare)
