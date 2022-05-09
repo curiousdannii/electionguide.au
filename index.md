@@ -14,7 +14,7 @@ At a Glance
 ===========
 
 <table>
-  <tr><th>Ranking</th><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="meh">Meh</td><td class="poor">Poor</td><td class="bad">Bad</td><td class="abysmal">Abysmal</td></tr>
+  <tr><th>Evaluation</th><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="meh">Meh</td><td class="poor">Poor</td><td class="bad">Bad</td><td class="abysmal">Abysmal</td></tr>
 </table>
 
 <table>
