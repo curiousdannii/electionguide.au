@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.great {
+    background: #66FF00;
+}
+
+.good {
+    background: #89d954;
+}
+
+.fair {
+    background: #90b578;
+}
+
+.meh {
+    background: #ababab;
+}
+
+.poor {
+    background: #9c6363;
+}
+
+.bad {
+    background: #d83131;
+    color: white;
+}
+
+.abysmal {
+    background: #741616;
+    color: white;
+}
