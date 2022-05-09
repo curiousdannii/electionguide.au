@@ -6,7 +6,7 @@ image: 2022.png
 Dannii's Opinionated Guide to the 2022 Australian Federal Election
 ==================================================================
 
-Welcome to my guide to the 2022 Australian Federal Election. This is opinionated in that the issues I cover are the ones that I personally think are most important, but I aim for my description of each party's policies within those categories to be factual. If you see an error, or something I missed, [let me know here](https://github.com/curiousdannii/electionguide.au/issues). I'm still adding the micro parties, there are a lot of them!
+Welcome to my guide to the 2022 Australian Federal Election. This is as opinionated guide because it covers only the issues I personally think are most important, and I give my personal evaluation of each party's policies on these issue. Of course there are many other issues which other people care about, I just hope anyone who sees this might consider these issues as well when they decide to to vote for. But I do aim for my description of each party's policies within those categories to be factual. If you see an error, or something I missed, [let me know here](https://github.com/curiousdannii/electionguide.au/issues). I'm still adding the micro parties, there are a lot of them!
 
 Remember, **you can't waste your vote in Australian elections!** Remember to number all candidates in the House of Representatives, and at least 6 above the line (or 12 below the line) in the Senate. You can safely give your first preference vote to a minor party and then vote for your preferred major party afterwards.
 
@@ -20,11 +20,12 @@ At a Glance
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
   <tr><td>Australian Christians</td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
+  <tr><td>Australian Democrats</td><td class="good">Good</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="fair">Fair</td></tr>
   <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
-  <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td></tr>
+  <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="great">Great</td><td class="good">Good</td></tr>
   <tr><td>Labor Party</td><td class="bad">Bad</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="meh">Meh</td><td class="fair">Fair</td></tr>
   <tr><td>Liberal Democrats</td><td></td><td class="abysmal">Abysmal</td><td class="meh">Meh</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>Liberal Party</td><td class="bad">Bad</td><td class="bad">Bad</td><td>       </td><td class="meh">Meh</td><td class="poor">Poor</td><td></td><td class="meh">Meh</td></tr>
+  <tr><td>Liberal Party</td><td class="bad">Bad</td><td class="bad">Bad</td><td></td><td class="meh">Meh</td><td class="poor">Poor</td><td></td><td class="meh">Meh</td></tr>
   <tr><td>One Nation</td><td class="abysmal">Abysmal</td><td class="abysmal">Abysmal</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>United Australia Party</td><td></td><td class="poor">Poor</td><td class="meh">Meh</td><td class="meh">Meh</td><td></td><td></td><td></td></tr>
   <tr><td>Victorian Socialists</td><td class="good">Good</td><td class="good">Good</td><td></td><td class="good">Good</td><td class="good">Good</td><td></td><td class="meh">Meh</td></tr>
@@ -38,6 +39,8 @@ Asylum Seekers
 --------------
 
 - Offshore processing
+  - Australian Democrats
+    - [End holding asylum seekers in immigration detention and offshore processing](https://www.democrats.org.au/foreign-affairs-a-new-approach/#:~:text=Stop%20holding%20asylum%20seekers%20in%20immigration%20detention%20and%20end%C2%A0offshore%20processing%20of%20people%20seeking%20asylum%C2%A0)
   - Greens
     - [End offshore detention](https://greens.org.au/platform/equality#:~:text=Close%20the%20camps%20and%20end%20offshore%20detention%20on%20Manus%20Island%20and%20Nauru%2C%20bringing%20refugees%20to%20safety%20and%20freedom%20in%20Australia%C2%A0)
   - Labor Party
@@ -69,6 +72,11 @@ Climate & Environment
 ---------------------
 
 - Electric vehicles
+  - Australian Democrats
+    - [Require all government purchased passenger vehicles to be electric](https://www.democrats.org.au/our-transport-plan/#:~:text=Require%20all%20regular%20passenger%20vehicles%20purchased%20by%20the%20government%20to%20be%20electric.%C2%A0)
+    - [$240M to electrify 500 metropolitan commuter buses](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=An%20immediate%20%24240m%20investment%20to%20electrify%20500%20metropolitan%20commuter%20buses)
+    - [Ban the sale of new fossil fuelled passenger cars and utes by 2035](https://www.democrats.org.au/our-transport-plan/#:~:text=Ban%20the%20sale%20of%20new%20fossil%2Dfuelled%20passenger%20cars%20and%C2%A0utes%C2%A0from%202035%2C%20in%20line%20with%20the%20UK%20and%20EU%2C%20noting%20that%20by%C2%A0~2026%20EVs%20will%20be%20cheaper%20to%20buy%20as%20battery%20costs%C2%A0decrease%C2%A0and%20production%20lines%20shift%20to%20EVs%C2%A0)
+    - [From 2023 allow only electric vehicles to qualify for company car tax benefits](https://www.democrats.org.au/our-transport-plan/#:~:text=Allow%20only%20new%20electric%20vehicles%20to%20qualify%20for%20the%20typical%20company%20car%20tax%20benefits%20from%202023.%C2%A0)
   - Fusion
     - [All governments switch to electric vehicles](https://www.fusionparty.org.au/climate_emergency#:~:text=All%20governments%20replace%20their%20fleets%20with%20electric%20vehicles.)
     - [National charging network](https://www.fusionparty.org.au/climate_emergency#:~:text=Roll%20out%20a%20nationally%20coordinated%20electric%20vehicle%20charging%20network.)
@@ -84,7 +92,12 @@ Climate & Environment
 
 - Emissions
   - Australian Christians
-   - [Supports the view of "natural climate change" and opposes all carbon taxes, wants subsidies to renewable energy to be ended](https://australianchristians.org.au/wp-content/uploads/2020/09/Carbon-Tax-2018.pdf)
+    - [Supports the view of "natural climate change" and opposes all carbon taxes, wants subsidies to renewable energy to be ended](https://australianchristians.org.au/wp-content/uploads/2020/09/Carbon-Tax-2018.pdf)
+  - Australian Democrats
+    - [66% reduction by 2030, net zero by 2050](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=Commit%20to%20reducing%20emissions%20by%20at%20least%2066%25%20by%202030%20and%20develop%20pathways%20for%20this%20and%20for%20net%2Dzero%20emissions%20by%202050)
+    - [Introduce a carbon tax of $30/tonne](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=We%20propose%20to%20implement%20a%C2%A0carbon%20tax%20of%20%2430/tonne%2C%C2%A0with%C2%A0the%20price%C2%A0to%20increase%C2%A0in%20line%20with%C2%A0carbon%20prices%20adopted%20by%C2%A0Australia%E2%80%99s%20key%20trade%20partners.%C2%A0)
+    - [Stop all fossil fuel subsidies](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=The%20IMF%20has,a%20clean%20transition.%C2%A0)
+    - [Switch all residential gas heating and cooking to electric by 2030](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=Switch%20all%20residential%20gas%20heating%20and%20cooking%20to%20electric%20systems%20by%202030%3B)
   - Fusion
     - [10 year net zero target (2032)](https://www.fusionparty.org.au/climate_emergency#:~:text=10%2Dyear%20transition%20to%20negative%20emissions)
     - [No new fossil fuel projects](https://www.fusionparty.org.au/ecological_restoration#:~:text=No%20new%20fossil%20fuel%20projects.), [and a 2 year window to stop current fossil fuel extraction](https://www.fusionparty.org.au/ecological_restoration#:~:text=2%2Dyear%20window%20to%20cease%20fossil%20fuel%20extraction)
@@ -109,6 +122,8 @@ Climate & Environment
     - [Zero emissions society by 2035](https://www.victoriansocialists.org.au/our_platform#:~:text=A%20zero%20emissions%20economy%20by%202035)
 
 - Energy
+  - Australian Democrats
+    - [Opposes nuclear power](https://www.democrats.org.au/a-decade-of-climate-action/#:~:text=While%20it%20may,electricity%20from%20renewables.)
   - Fusion
     - [800% renewable energy target - so that we can export renewable energy to other nations](https://www.fusionparty.org.au/climate_emergency#:~:text=800%25%20Renewables%20%2D%20Leading%20the%20international%20effort)
   - Greens
@@ -148,6 +163,8 @@ Climate & Environment
     - [$34M to establish a national water commission to reform use of water resources](https://alp.org.au/policies/labors-plan-to-future-proof-australias-water-resources#:~:text=The%20details,National%20Water%20Commission.)
 
 - Forestry
+  - Australian Democrats
+    - [Encourage reforestation, reduce land clearing](https://www.democrats.org.au/adapting-to-climate-change-data/#:~:text=Encourage%20reforestation%20(through%20planting%20of%20native%20vegetation)%2C%20reduction%20in%20land%20clearing%20and%20soil%20carbon%20capture%20(through%20the%20use%20of%20no%2Dtill%20techniques%2C%20planting%20native%20grasses%2C%20and%20other%20regenerative%20farming%20techniques))
   - Fusion
     - [End native logging](https://www.fusionparty.org.au/ecological_restoration#:~:text=When%20forests%20are,preserve%20remnant%20vegetation.)
   - Greens
@@ -165,6 +182,9 @@ Climate & Environment
     - [Make public transport publicly owned, safe, free](https://www.victoriansocialists.org.au/our_platform#:~:text=Making%20public%20transport%20publicly%20owned%2C%20safe%2C%20and%20free)
 
 - Recycling
+  - Australian Democrats
+    - [Set a target of 80% recovery rate from all waste streams by 2030](https://www.democrats.org.au/our-waste-our-responsibility-plan/#:~:text=Set%20an%20average%2080%20percent%20recovery%20rate%20from%20all%20waste%20streams%20by%202030%20(as%20set%20by%20the%202019%C2%A0National%20Waste%20Policy%20Action%20Plan)%20and%20establish%20annual%2C%20measurable%20targets)
+    - [Investing in recycling and re-use inititives, including for e-waste](https://www.democrats.org.au/r2r/#:~:text=Invest%20in%20recycling%20and%20re%2Duse%20initiatives%2C%20so%20e%2Dwaste%20does%20not%20enter%20our%20environment.)
   - Greens
     - [$1B for local council composting facilities](https://greens.org.au/platform/economy#:~:text=Provide%20%241bn%20for%20a%20nationwide%20compostable%20processing%20scheme%20supporting%20local%20councils%20to%20build%20industrial%20compostable%20facilities%2C%20which%20will%20make%20best%20use%20of%20our%20recycled%20goods%2C%20will%20create%20thousands%20of%20jobs%2C%20and%20help%20us%20live%20more%20sustainably)
     - [$500M into infrastructure and programs to reboot recycling](https://greens.org.au/platform/economy#:~:text=Invest%20%24500%20million%20over%20five%20years%20into%20infrastructure%20and%20programs%20to%20reboot%20recycling)
@@ -179,6 +199,8 @@ Political Integrity
 -------------------
 
 - Anti-corruption commission
+  - Australian Democrats
+    - [An independent National Integrity Commission, with the powers of a royal commission and ablee to conduct public hearings](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20NIS%20must,from%20the%20public%E2%80%AF.)
   - Fusion
     - [Create a federal anti-corruption commission with retrospective powers and open hearings](https://www.fusionparty.org.au/ethical_governance#:~:text=Create%20an%20anti%2Dcorruption%20commission%20at%20the%20federal%20level%2C%20with%20retrospective%20powers%20and%20open%20hearings.)
     - [More protection for whistleblowers and activists](https://www.fusionparty.org.au/ethical_governance#:~:text=Implement%20protections%20for%20whistleblowers%20and%20activists)
@@ -188,6 +210,8 @@ Political Integrity
     - [Will legislate a powerful, transparent, and independent national anti-corruption commission by end of 2022](https://www.alp.org.au/policies/fighting-corruption)
 
 - Political donations
+  - Australian Democrats
+    - [Financial cap of donations, disclosure thresholds reduced to $1500, disclosure within 7 days](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20financial%20cap,on%20government%20decisions)
   - Fusion
     - [Real time disclosure of political donations over $1000](https://www.fusionparty.org.au/ethical_governance#:~:text=Real%2Dtime%20disclosure%20of%20political%20donations%20above%20%241000%20to%20show%20flows%20of%20influence%20over%20politicians)
   - Greens
@@ -198,6 +222,8 @@ Political Integrity
     - [Abolish political donations from property developers](https://westernaustraliaparty.org.au/services/your-money/#:~:text=The%20Western%20Australia%20Party%20also%20supports%20the%20abolition%20of%20political%20donations%20from%20property%20developers%20and%20allied%20industries%2C%20which%20are%20already%20banned%20in%20most%20other%20states%2C%20which%20both%20major%20political%20parties%20receive.)
 
 - Transparency
+  - Australian Democrats
+    - [Introduce a mandatory 3-year post-ministerial 'cooling-off' period](https://www.democrats.org.au/accountability-campaign/#:~:text=Introduce%20a%20mandatory%203%2Dyear%20post%2Dministerial%20%E2%80%98cooling%2Doff%E2%80%99%20period.)
   - Greens
     - [Require major projects over $100M to have an independent evaluation and community consulation](https://greens.org.au/platform/services#:~:text=Ensure%20the%20community%20is%20at%20the%20centre%20of%20project%20planning%20by%20requiring%20major%20projects%20over%20%24100%20million%20to%20have%20an%20independent%20evaluation%20and%20community%20consultation.%C2%A0)
     - [Publish a register of meetings between Ministers and mining lobbyists](https://greens.org.au/platform/democracy#:~:text=Publish%20a%20register%20of%20meetings%20between%20Ministers%20and%20mining%20lobbyists%20to%20improve%20transparency%20and%20shine%20a%20light%20on%20dodgy%20deals)
@@ -221,6 +247,9 @@ Living Costs
     - [Abolish HECS debts](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=Abolish%20HECS%20debts%20for%20students)
 
 - Health
+  - Australian Democrats
+    - [Provide children and concession card holders with comprehensive dental care, then incrementally move towards universal dental](https://www.democrats.org.au/our-health-plan/#:~:text=Provide%20children%20(aged,towards%20universal%20dental)
+    - [Supports a national mental health plan, including new funding](https://www.democrats.org.au/our-health-plan/#:~:text=A%20National%20Mental%20Health%20Action%20plan%C2%A0underpinned%20by%20the%20recommendations%20of%20the%202020%20Productivity%20Commission%20Mental%20Health%20Inquiry%20Report%2C%20with%20significant%20new%20funding%20and%20system%20reform.)
   - Fusion
     - [Add basic mental and dental health to medicare](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Add%20basic%20mental%20and%20dental%20health%20to%20medicare)
   - Greens
@@ -235,6 +264,12 @@ Living Costs
     - [Replace NDIS with Medicare-funded publicly run disability services](https://www.victoriansocialists.org.au/our_platform#:~:text=Replace%20NDIS%20with%20Medicare%2Dfunded%20publicly%20run%20disability%20services.)
 
 - Housing
+  - Australian Democrats
+    - [Fund 100K new affordable and 100K new social/community housing units](https://www.democrats.org.au/thousands-of-affordable-new-homes/#:~:text=Fund%E2%80%AF100%2C000%20new%20affordable%C2%A0and%C2%A0100%2C000%20new%20social%C2%A0and%20community%C2%A0housing%20units%E2%80%AF%C2%A0%C2%A0)
+    - [Lift the Commonwealth Rent Assitance cap by 30%](https://www.democrats.org.au/income-support/?swcfpc=1#:~:text=Lift%20the%20Commonwealth%20Rent%20Assistance%20cap%20by%2030%25)
+    - [Fund safe, permanent housing, no strings attached, for people who have been homeless medium-long term](https://www.democrats.org.au/thousands-of-affordable-new-homes/#:~:text=Fund%20safe%2C%20permanent%20and%20supported%20housing%2C%20no%20strings%20attached%2C%20for%20people%20who%20have%20been%C2%A0homeless%2C%20medium%20to%20long%20term%C2%A0%C2%A0)
+    - [Change negative gearing rules to apply only to new housing](https://www.democrats.org.au/thousands-of-affordable-new-homes/#:~:text=Change%20negative%20gearing%20rules%20to%20only%20apply%20to%20investment%20in%20new%20housing)
+    - [Halve the capital gains tax exemption to discourage long-term house vacancies](https://www.democrats.org.au/thousands-of-affordable-new-homes/#:~:text=Halve%20the%20capital%20gains%20tax%20exemption%20to%20discourage%20speculation%20on%20existing%20housing%20and%C2%A0long%2Dterm%20house%20vacancies%2C%20currently%20~4%25)
   - Fusion
     - [Stop tax structures that treat hosing as an investment, such as capital gains tax discount](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Cease%20tax%20structures%20that%20incentivise%20properties%20as%20a%20portfolio%20investments%20such%20as%20the%20capital%20gains%20tax%20discount)
     - [Replace stamp duty with a land tax to ensure housing is not left vacant as an asset](https://www.fusionparty.org.au/fair_inclusive_society#:~:text=Replace%20stamp%20duty%20with%20more%20equitable%20revenue%20streams%20such%20as%20land%2Dtax%2C%20to%20ensure%20housing%20is%20not%20left%20vacant%20solely%20as%20an%20asset.)
@@ -254,6 +289,8 @@ Living Costs
     - [Cap rents and mandatory mortgage repayments at 25% of household income](https://www.victoriansocialists.org.au/our_platform#:~:text=Cap%20rents%20and%20mandatory%20mortgage%20repayments%20at%2025%25%20of%20household%20income.)
 
 - Parental leave
+  - Australian Democrats
+    - [26 paid parental leave, allocated to each parent](https://www.democrats.org.au/early-childhood-development/?swcfpc=1#:~:text=26%20weeks%20of%20paid%20parental%20leave%2C%20allocated%20to%20each%20parent%20with%20encouragement%20for%20equal%20sharing%C2%A0)
   - Greens
     - [26 weeks of paid parent leave](https://greens.org.au/sites/default/files/2022-04/Greens-2022-Policy-Platform--Jobs--Women.pdf)
   - Labor Party
@@ -274,6 +311,8 @@ Indigenous Australians
 - Health
   - Australian Christians
     - [Support alcohol bans and dry communities](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
+  - Australian Democrats
+    - [Support community-driven health initiatives with Aboriginal leadership](https://www.democrats.org.au/our-health-plan/#:~:text=Prioritise%20support%20(financial%20and%20infrastructure)%20for%20community%2Ddriven%20initiatives%20for%20improved%20health%20outcomes%2C%20underscored%20by%20co%2Ddesign%2C%20community%20input%20and%20Aboriginal%20leadership)
   - Greens
     - [$371M to community-led First Nations health services](https://greens.org.au/platform/first-nations#:~:text=%24371m%20to%20self%2Ddetermined%2C%20community%2Dled%20First%20Nations%20health%20services%20to%20increase%20their%20capacity%20to%20care%20for%20their%20own%20communities)
     - [$1.07B to build First Nations owned healing places](https://greens.org.au/platform/first-nations#:~:text=Ensure%20people%20have%20early%20access%20to%20preventative%20programs%20and%20provide%20funding%20of%20%241.07b%20to%20build%20First%20Nations%20owned%20healing%20places)
@@ -294,6 +333,8 @@ Indigenous Australians
     - [Reduce social housing and encourage private ownership](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
     - [Narrow criteria for Aboriginal ancestry and identification](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
     - [Supports food vouchers over cash or direct payments](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
+  - Australian Democrats
+    - [Make the cashless debit card optional](https://www.democrats.org.au/income-support/?swcfpc=1#:~:text=Make%20optional%20the%20Cashless%20Debit%20Card%20imposed%20largely%20on%20First%20Nations%20communities)
   - Greens
     - [$250M for a national Truth and Justice Commission](https://greens.org.au/platform/first-nations#:~:text=%24250m%20for%20a%20national%20Truth%20and%20Justice%20Commission%2C%20an%20independent%20body%20with%20the%20powers%20of%20a%20Royal%20Commission.%20The%20Commission%20would%20investigate%20and%20reveal%20historic%20and%20ongoing%20human%20rights%20abuses%2C%20wrongdoing%2C%20and%20provide%20recommendations%20on%20how%20to%20heal%20from%20them.%C2%A0)
     - [$200K payment per survivor of the Stolen Generation, plust $7K for funeral expenses](https://greens.org.au/platform/first-nations#:~:text=Establish%20compensation%20scheme,for%20funeral%20expenses)
@@ -311,6 +352,8 @@ Foreign Aid
 
 - Australian Christians
   - [Increase to 0.5%](https://australianchristians.org.au/wp-content/uploads/2020/09/Refugees-and-Asylum-2018.pdf)
+- Australian Democrats
+  - [Increase to 0.7% of GNI](https://www.democrats.org.au/foreign-affairs-a-new-approach/#:~:text=Bring%20foreign%20aid%20to%200.7%25%20of%20gross%20national%20income%20by%202025%2C%20currently%200.21%25%20and%20just%200.74%25%20of%20the%20Federal%20budget)
 - Fusion
   - [Expand use of diplomacy and aid in support of global human rights](https://www.fusionparty.org.au/fair_foreign_policy#:~:text=Expand%20use%20of%20diplomacy%20and%20aid%20in%20support%20of%20global%20human%20rights)
 - Greens
@@ -319,7 +362,7 @@ Foreign Aid
 - Labor Party
   - [Increase development assistance to Pacific countries by $525M over four years](https://alp.org.au/policies/labors-plan-to-build-a-stronger-pacific-family#:~:text=Labor%20will%20increase%20Australian%20Official%20Development%20Assistance%20to%20Pacific%20countries%20by%20%24525%20million%20over%20the%20four%20years%20from%202022%2D23%20to%202025%2D26.)
 - Liberal Party
-  - ?
+  - [Currently 0.21% of GNI](https://www.democrats.org.au/foreign-affairs-a-new-approach/#:~:text=income%20by%202025%2C-,currently%200.21%25,-and%20just%200.74)
 
 Technology
 ----------
@@ -346,5 +389,7 @@ Technology
     - [Wants to introduce laws to hold social media companies more accountable for anonymous trolls](https://www.liberal.org.au/our-plan/families#:~:text=We%20also%20introduced%20new%20laws%20into%20the%20Parliament%20to%20hold%20social%20media%20companies%20more%20accountable%20for%20anonymous%20trolls%20online)
 
 - Right to repair
+  - Australian Democrats
+    - [Support a right to repair, mandate minimum software support periods](https://www.democrats.org.au/r2r/)
   - Greens
     - [Amend laws to deliver a right to repair](https://greens.org.au/platform/economy#:~:text=Amend%20the%20Consumer%20and%20Competition%20Regulations%20to%20deliver%20a%20right%20to%20repair)
