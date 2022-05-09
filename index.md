@@ -14,6 +14,7 @@ At a Glance
 
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
+  <tr><td>Australian Christians></td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td><td class="good">Good</td></tr>
   <tr><td>Labor Party</td><td class="bad">Bad</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="meh">Meh</td><td class="fair">Fair</td></tr>
@@ -43,7 +44,11 @@ Asylum Seekers
   - Victorian Socialists
     - [End boat turn backs, offshore detention, mandatory detention](https://www.victoriansocialists.org.au/our_platform#:~:text=Close%20offshore%20and,boat%20turn%2Dbacks)
 
-- Refugee settlement
+- General asylum seekers and refugees policies
+  - Australian Christians
+    - [Our humanitarian program should include internally displaced peoples](https://australianchristians.org.au/wp-content/uploads/2020/09/Refugees-and-Asylum-2018.pdf)
+    - [Remove refugees from detention once initial checks are complete, and consider a pilot homestay transition program](https://australianchristians.org.au/wp-content/uploads/2020/09/Refugees-and-Asylum-2018.pdf)
+    - [Christians facing religious persuection should have a Special Assitance Visa category](https://australianchristians.org.au/wp-content/uploads/2020/09/Refugees-and-Asylum-2018.pdf)
   - Fusion
     - [Support political asylum for refugees, particularly for whistleblowers and those exiled for defending democratic freedoms](https://www.fusionparty.org.au/fair_foreign_policy#:~:text=Support%20political%20asylum%20for%20refugees%2C%20particularly%20for%20whistleblowers%20and%20those%20exiled%20for%20defending%20democratic%20freedoms.)
   - Greens
@@ -73,6 +78,8 @@ Climate & Environment
     - [Remove import tariffs and fringe benefits tax from electric cars](https://www.alp.org.au/policies/electric-car-discount#:~:text=As%20part%20of,for%20private%20use.)
 
 - Emissions
+  - Australian Christians
+   - [Supports the view of "natural climate change" and opposes all carbon taxes, wants subsidies to renewable energy to be ended](https://australianchristians.org.au/wp-content/uploads/2020/09/Carbon-Tax-2018.pdf)
   - Fusion
     - [10 year net zero target (2032)](https://www.fusionparty.org.au/climate_emergency#:~:text=10%2Dyear%20transition%20to%20negative%20emissions)
     - [No new fossil fuel projects](https://www.fusionparty.org.au/ecological_restoration#:~:text=No%20new%20fossil%20fuel%20projects.), [and a 2 year window to stop current fossil fuel extraction](https://www.fusionparty.org.au/ecological_restoration#:~:text=2%2Dyear%20window%20to%20cease%20fossil%20fuel%20extraction)
@@ -260,6 +267,8 @@ Indigenous Australians
 ----------------------
 
 - Health
+  - Australian Christians
+    - [Support alcohol bans and dry communities](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
   - Greens
     - [$371M to community-led First Nations health services](https://greens.org.au/platform/first-nations#:~:text=%24371m%20to%20self%2Ddetermined%2C%20community%2Dled%20First%20Nations%20health%20services%20to%20increase%20their%20capacity%20to%20care%20for%20their%20own%20communities)
     - [$1.07B to build First Nations owned healing places](https://greens.org.au/platform/first-nations#:~:text=Ensure%20people%20have%20early%20access%20to%20preventative%20programs%20and%20provide%20funding%20of%20%241.07b%20to%20build%20First%20Nations%20owned%20healing%20places)
@@ -276,6 +285,10 @@ Indigenous Australians
     - [Uphold the principle of Aboriginal self-determination beyond tokenistic Constitutional recognition](https://www.victoriansocialists.org.au/our_platform#:~:text=Victorian%20Socialists%27%20upholds%20the%20principle%20of%20Aboriginal%20self%2Ddetermination%20beyond%20tokenistic%20Constitutional%20recognition.)
 
 - Justice
+  - Australian Christians
+    - [Reduce social housing and encourage private ownership](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
+    - [Narrow criteria for Aboriginal ancestry and identification](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
+    - [Supports food vouchers over cash or direct payments](https://australianchristians.org.au/wp-content/uploads/2021/03/Aboriginal-Affairs-2018.pdf)
   - Greens
     - [$250M for a national Truth and Justice Commission](https://greens.org.au/platform/first-nations#:~:text=%24250m%20for%20a%20national%20Truth%20and%20Justice%20Commission%2C%20an%20independent%20body%20with%20the%20powers%20of%20a%20Royal%20Commission.%20The%20Commission%20would%20investigate%20and%20reveal%20historic%20and%20ongoing%20human%20rights%20abuses%2C%20wrongdoing%2C%20and%20provide%20recommendations%20on%20how%20to%20heal%20from%20them.%C2%A0)
     - [$200K payment per survivor of the Stolen Generation, plust $7K for funeral expenses](https://greens.org.au/platform/first-nations#:~:text=Establish%20compensation%20scheme,for%20funeral%20expenses)
@@ -291,6 +304,8 @@ Indigenous Australians
 Foreign Aid
 -----------
 
+- Australian Christians
+  - [Increase to 0.5%](https://australianchristians.org.au/wp-content/uploads/2020/09/Refugees-and-Asylum-2018.pdf)
 - Fusion
   - [Expand use of diplomacy and aid in support of global human rights](https://www.fusionparty.org.au/fair_foreign_policy#:~:text=Expand%20use%20of%20diplomacy%20and%20aid%20in%20support%20of%20global%20human%20rights)
 - Greens
