@@ -2,6 +2,29 @@
 title: Dannii's Opinionated Guide to the 2022 Australian Federal Election
 ---
 
+Dannii's Opinionated Guide to the 2022 Australian Federal Election
+==================================================================
+
+Welcome to my guide to the 2022 Australian Federal Election. This is opinionated in that the issues I cover are the ones that I personally think are most important, but I aim for my description of each party's policies within those categories to be factual. If you see an error, or something I missed, [let me know here](https://github.com/curiousdannii/electionguide.au/issues).
+
+Remember, **you can't waste your vote in Australian elections!** Remember to number all candidates in the House of Representatives, and at least 6 above the line (or 12 below the line) in the Senate. You can safely give your first preference vote to a minor party and then vote for your preferred major party afterwards.
+
+At a Glance
+===========
+
+<table>
+  <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
+  <tr><td>Fusion</td><td>Meh                 </td><td>Great    </td><td>Great  </td><td>Good  </td><td>Fair  </td><td>Fair  </td><td>      </td></tr>
+  <tr><td>Greens</td><td>Great               </td><td>Great    </td><td>Great  </td><td>Good  </td><td>Good  </td><td>Good  </td><td>Good  </td></tr>
+  <tr><td>Labor Party</td><td>Bad            </td><td>Good     </td><td>Good   </td><td>Fair  </td><td>Good  </td><td>Meh   </td><td>Fair  </td></tr>
+  <tr><td>Liberal Democrats</td><td>         </td><td>Abysmal  </td><td>Meh    </td><td>      </td><td>      </td><td>      </td><td>      </td></tr>
+  <tr><td>Liberal Party</td><td>Bad          </td><td>Bad      </td><td>       </td><td>Meh   </td><td>Poor  </td><td>      </td><td>Meh   </td></tr>
+  <tr><td>One Nation</td><td>Abysmal         </td><td>Abysmal  </td><td>       </td><td>      </td><td>      </td><td>      </td><td>      </td></tr>
+  <tr><td>United Australia Party</td><td>    </td><td>Poor     </td><td>Meh    </td><td>Meh   </td><td>      </td><td>      </td><td>      </td></tr>
+  <tr><td>Victorian Socialists</td><td>Good  </td><td>Good     </td><td>       </td><td>Good  </td><td>Good  </td><td>      </td><td>Meh   </td></tr>
+  <tr><td>Western Australia Party</td><td>   </td><td>Weak     </td><td>Meh    </td><td>      </td><td>      </td><td>      </td><td>      </td></tr>
+</table>
+
 Policies
 ========
 
