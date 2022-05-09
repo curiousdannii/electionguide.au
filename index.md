@@ -21,6 +21,7 @@ At a Glance
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#foreign-aid">Foreign Aid</a></th><th><a href="#technology">Technology</a></th></tr>
   <tr><td>Australian Christians</td><td class="good">Good</td><td class="abysmal">Abysmal</td><td></td><td></td><td class="poor">Mixed</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Australian Democrats</td><td class="good">Good</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="fair">Fair</td></tr>
+  <tr><td>Federal ICAC Now</td><td></td><td></td><td class="great">Great</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>Fusion</td><td class="meh">Meh</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="fair">Fair</td><td></td></tr>
   <tr><td>Greens</td><td class="great">Great</td><td class="great">Great</td><td class="great">Great</td><td class="good">Good</td><td class="good">Good</td><td class="great">Great</td><td class="good">Good</td></tr>
   <tr><td>Labor Party</td><td class="bad">Bad</td><td class="good">Good</td><td class="good">Good</td><td class="fair">Fair</td><td class="good">Good</td><td class="meh">Meh</td><td class="fair">Fair</td></tr>
@@ -201,6 +202,8 @@ Political Integrity
 - Anti-corruption commission
   - Australian Democrats
     - [An independent National Integrity Commission, with the powers of a royal commission and able to conduct public hearings](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20NIS%20must,from%20the%20public%E2%80%AF.)
+  - Federal ICAC Now
+    - [Establish a federal anti-corruption commission](https://www.federalicacnow.org/fin_platform#:~:text=The%20establishment%20of%20a%20federal%20anti%2Dcorruption%20commission%20is%20the%20cornerstone%20of%20the%20party%20but%20not%20its%20entirety.)
   - Fusion
     - [Create a federal anti-corruption commission with retrospective powers and open hearings](https://www.fusionparty.org.au/ethical_governance#:~:text=Create%20an%20anti%2Dcorruption%20commission%20at%20the%20federal%20level%2C%20with%20retrospective%20powers%20and%20open%20hearings.)
     - [More protection for whistleblowers and activists](https://www.fusionparty.org.au/ethical_governance#:~:text=Implement%20protections%20for%20whistleblowers%20and%20activists)
@@ -212,6 +215,9 @@ Political Integrity
 - Political donations
   - Australian Democrats
     - [Financial cap of donations, disclosure thresholds reduced to $1500, disclosure within 7 days](https://www.democrats.org.au/accountability-campaign/#:~:text=A%20financial%20cap,on%20government%20decisions)
+  - Federal ICAC Now
+    - [Real-time polticial donation disclosures](https://www.federalicacnow.org/fin_platform#:~:text=Real%2Dtime%20political%20donation%20disclosure)
+    - [Limit donations by corporations, trade unions, lobby groups](https://www.federalicacnow.org/fin_platform#:~:text=limits%20on%20donations%20to%20political%20parties%20by%20corporations%2C%20trade%20unions%2C%20lobby%20groups%20and%20other%20entities)
   - Fusion
     - [Real time disclosure of political donations over $1000](https://www.fusionparty.org.au/ethical_governance#:~:text=Real%2Dtime%20disclosure%20of%20political%20donations%20above%20%241000%20to%20show%20flows%20of%20influence%20over%20politicians)
   - Greens
@@ -224,6 +230,9 @@ Political Integrity
 - Transparency
   - Australian Democrats
     - [Introduce a mandatory 3-year post-ministerial 'cooling-off' period](https://www.democrats.org.au/accountability-campaign/#:~:text=Introduce%20a%20mandatory%203%2Dyear%20post%2Dministerial%20%E2%80%98cooling%2Doff%E2%80%99%20period.)
+  - Federal ICAC Now
+    - [5 year moratorium during which no retiring elected official can be appointed to any government funded position](https://www.federalicacnow.org/fin_platform#:~:text=a%20five%2Dyear%20moratorium%20during%20which%20no%20retiring%20elected%20official%20can%20be%20appointed%20to%20any%20government%20funded%20position)
+    - [Prohibit former ministers from being employed in any commercial sector formely under their authority, or engaing in any lobbying regarding their former portfolio](https://www.federalicacnow.org/fin_platform#:~:text=former%20ministers%20prohibited%20from%20employment%20in%20any%20commercial%20sector%20formerly%20under%20the%20authority%20of%20that%20minister%20or%20engaging%20in%20any%20lobbying%20activity%20regarding%20any%20aspect%20of%20their%20previous%20portfolio/s)
   - Greens
     - [Require major projects over $100M to have an independent evaluation and community consulation](https://greens.org.au/platform/services#:~:text=Ensure%20the%20community%20is%20at%20the%20centre%20of%20project%20planning%20by%20requiring%20major%20projects%20over%20%24100%20million%20to%20have%20an%20independent%20evaluation%20and%20community%20consultation.%C2%A0)
     - [Publish a register of meetings between Ministers and mining lobbyists](https://greens.org.au/platform/democracy#:~:text=Publish%20a%20register%20of%20meetings%20between%20Ministers%20and%20mining%20lobbyists%20to%20improve%20transparency%20and%20shine%20a%20light%20on%20dodgy%20deals)
