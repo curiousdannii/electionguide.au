@@ -1,1 +1,4 @@
-google_analytics: G-RG3P9YRS1Y
+plugins:
+  - jekyll-seo-tag
+    
+    google_analytics: G-RG3P9YRS1Y
