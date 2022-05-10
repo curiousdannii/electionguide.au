@@ -1,5 +1,6 @@
 ---
 title: Dannii's Opinionated Guide to the 2022 Australian Federal Election
+description: Dannii's Opinionated Guide to the 2022 Australian Federal Election
 image: 2022.png
 ---
 
