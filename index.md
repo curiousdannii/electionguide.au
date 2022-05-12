@@ -1,5 +1,6 @@
 ---
 title: Dannii's Opinionated Guide to the 2022 Australian Federal Election
+description: A guide to the 2022 Australian Federal Election with links to party policies on seven important issues
 image: 2022.png
 ---
 
@@ -68,6 +69,8 @@ Asylum Seekers
     - [Reduce refugee intake and withdraw from the UN refugee convention](https://www.onenation.org.au/refugees#:~:text=We%20believe%20in,1951%20Refugee%20Convention.)
   - Victorian Socialists
     - [Offer asylum to all refugges and asylum seekers on Manus and Nauru](https://www.victoriansocialists.org.au/our_platform#:~:text=Offer%20asylum%20to%20all%20refugees%20and%20asylum%20seekers%20on%20Manus%20and%20Nauru)
+
+[▲ Back to top](#at-a-glance)
 
 Climate & Environment
 ---------------------
@@ -196,6 +199,8 @@ Climate & Environment
   - Victorian Socialists
     - [Invest in public owner recycling](https://www.victoriansocialists.org.au/our_platform#:~:text=Investment%20in%20publicly%20owned%20recycling%20and%20green%20tech%20facilities%20to%20reduce%20waste%20going%20to%20landfill.%20Take%20the%20private%20market%20out%20of%20the%20waste%20industry.)
 
+[▲ Back to top](#at-a-glance)
+
 Political Integrity
 -------------------
 
@@ -239,6 +244,8 @@ Political Integrity
     - [Stop Ministers taking industry jobs in industries they used to regulate within 5 years of leaving parliament](https://greens.org.au/platform/democracy#:~:text=Stop%20Ministers%20taking%20cushy%20industry%20jobs%20in%20industries%20they%20used%20to%20regulate%20within%205%20years%20of%20leaving%20parliament)
   - United Australia Party
     - [Stop lobbyists holding official positions in political parties](https://www.unitedaustraliaparty.org.au/national_policy/#:~:text=The%20United%20Australia%20Party%20believes%20lobbyists%20should%20be%20excluded%20from%20holding%20official%20positions%20in%20political%20parties.)
+
+[▲ Back to top](#at-a-glance)
 
 Living Costs
 ------------
@@ -314,6 +321,8 @@ Living Costs
     - [Extended the Low and Middle Income Tax Offset, so 7 million Australians received tax relief of $2000 or more](https://www.liberal.org.au/our-plan/lower-taxes#:~:text=In%20the%202021,to%202017%2D18.)
     - [Cut the fuel excise in half for six months, saving 22 cents/litre](https://www.liberal.org.au/our-plan/cost-of-living#:~:text=Cutting%20fuel%20excise%20in%20half%20for%20the%20next%20six%20months%20%2D%20saving%20Australians%2022%20cents%20a%20litre%20every%20time%20they%20fill%20up%20their%20vehicle.)
 
+[▲ Back to top](#at-a-glance)
+
 Indigenous Australians
 ----------------------
 
@@ -356,6 +365,8 @@ Indigenous Australians
     - [Implement all the recommendations of the Royal Commission into Aboriginal Deaths in Custody](https://www.victoriansocialists.org.au/our_platform#:~:text=Implement%20all%20the%20recommendations%20of%20the%20Royal%20Commission%20into%20Aboriginal%20Deaths%20in%20Custody.)
     - [End incarceration for unpaid fines and change bail laws](https://www.victoriansocialists.org.au/our_platform#:~:text=End%20incarceration%20for%20unpaid%20fines%20and%20support%20changes%20to%20bail%20laws%20that%20reduce%20the%20skyrocketing%20rate%20of%20Aboriginal%20men%20and%20women%20placed%20in%20remand%3B)
 
+[▲ Back to top](#at-a-glance)
+
 Foreign Aid
 -----------
 
@@ -372,6 +383,8 @@ Foreign Aid
   - [Increase development assistance to Pacific countries by $525M over four years](https://alp.org.au/policies/labors-plan-to-build-a-stronger-pacific-family#:~:text=Labor%20will%20increase%20Australian%20Official%20Development%20Assistance%20to%20Pacific%20countries%20by%20%24525%20million%20over%20the%20four%20years%20from%202022%2D23%20to%202025%2D26.)
 - Liberal Party
   - [Currently 0.21% of GNI](https://www.democrats.org.au/foreign-affairs-a-new-approach/#:~:text=income%20by%202025%2C-,currently%200.21%25,-and%20just%200.74)
+
+[▲ Back to top](#at-a-glance)
 
 Technology
 ----------
@@ -402,3 +415,5 @@ Technology
     - [Support a right to repair, mandate minimum software support periods](https://www.democrats.org.au/r2r/)
   - Greens
     - [Amend laws to deliver a right to repair](https://greens.org.au/platform/economy#:~:text=Amend%20the%20Consumer%20and%20Competition%20Regulations%20to%20deliver%20a%20right%20to%20repair)
+
+[▲ Back to top](#at-a-glance)
