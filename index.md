@@ -1,7 +1,7 @@
 ---
 title: Dannii's Opinionated Guide to the 2025 Australian Federal Election
 description: A guide to the 2025 Australian Federal Election with links to party policies on seven important issues
-image: 2022.png
+image: 2025.png
 ---
 
 Dannii's Opinionated Guide to the 2025 Australian Federal Election
@@ -23,7 +23,7 @@ At a Glance
 <table>
   <tr><th></th><th><a href="#asylum-seekers">Asylum Seekers</a></th><th><a href="#climate--environment">Climate & Environment</a></th><th><a href="#political-integrity">Political Integrity</a></th><th><a href="#living-costs">Living Costs</a></th><th><a href="#gambling">Gambling</a></th><th><a href="#indigenous-australians">Indigenous Australians</a></th><th><a href="#international-relations">International Relations</a></th><th><a href="#technology">Technology</a></th></tr>
   <tr><td>Labor Party</td><td></td><td class="fair">Fair</td><td></td><td class="fair">Fair</td><td></td><td></td><td class="fair">Fair</td><td></td></tr>
-  <tr><td>Liberal/National</td><td></td><td class="bad">Bad</td><td></td><td class="poor">Poor</td><td class="fair">Fair</td><td class="meh">Meh</td><td class="poor">Poor</td><td></td></tr>
+  <tr><td>Liberal/National</td><td></td><td class="bad">Bad</td><td></td><td class="poor">Poor</td><td class="fair">Fair</td><td class="meh">Meh</td><td class="poor">Poor</td><td class="poor">Poor</td></tr>
 </table>
 
 Policies
@@ -199,6 +199,10 @@ International Relations
 
 Technology
 ----------
+
+- AI
+  - Liberal/National
+    - [Support AI and blockchain businesses](https://www.liberal.org.au/our-plan#:~:text=Support%20Australian%20businesses%20to%20lead%20in%20emerging%20scientific%20and%20engineering%20fields%20such%20as%20advanced%20manufacturing%2C%20medical%20research%2C%20artificial%20intelligence%2C%20blockchain%2C%20and%20space%2C%20turning%20innovation%20into%20high%2Dpaying%20jobs%20and%20global%20opportunities.)
 
 - NBN
   - Liberal/National
