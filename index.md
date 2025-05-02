@@ -16,7 +16,7 @@ Unfortunately I couldn't make a detailed evaluation with links to each party's p
 
 At a Glance
 ===========
-- Greens
+- [Greens](https://greens.org.au/platform)
   - Dental into medicare
   - Public housing
   - Expand public owned renewable energy
@@ -25,7 +25,7 @@ At a Glance
   - End AUKUS
   - End occupation of Palestine
 
-- Sustainable Australia
+- [Sustainable Australia](https://www.sustainableaustralia.org.au/policies)
   - Anti corruption
   - Free uni education
   - Ban new coal mines
@@ -39,7 +39,7 @@ At a Glance
   - Expand rail networks
   - Transition to zero waste society
 
-- Democrats
+- [Democrats](https://www.democrats.org.au/#:~:text=Our%202025%20election%20policies)
   - Rapidly decarbonise this decade
   - Increase science research
   - Tax on virgin plastic
@@ -53,12 +53,12 @@ At a Glance
   - Ban gambling advertising
   - Truth in political advertising
 
-- Indigenous - Aboriginal Party of Australia
+- [Indigenous - Aboriginal Party of Australia](https://www.indigenouspartyofaustralia.com/our-policies)
   - Kids stay in families
   - No juvie detention
   - Treaty
 
-- Socialist Alliance
+- [Socialist Alliance](https://socialist-alliance.org/policy)
   - Pro first nations treaties
   - Right to vote at 16
   - Abolish ASIO and spy agencies
@@ -70,23 +70,23 @@ At a Glance
   - Free uni education
   - Free public transport
 
-- Australia’s Voice (Fatima Payman)
+- [Australia’s Voice](https://australiasvoice.com.au/what-we-stand-for/) (Fatima Payman)
   - Limit negative gearing
   - Slash politician’s perks
   - Republic
   - Fight climate change
 
-- Jacqui Lambie
+- [Jacqui Lambie](https://lambienetwork.com.au/pages/campaigns)
   - Anti corruption
 
-- Labor
+- [Labor](https://alp.org.au/policies)
   - Wiper 20% student debt
   - Strengthen Medicare
   - 5% house deposits
   - Invest $10B to build 100K homes for first home buyers
   - 82% renewables by 2030
 
-- Fusion party
+- [Fusion party](https://www.fusionparty.org.au/policy)
   - Declare climate emergency
   - 10 year transition to negative emissions
   - High speed rail Mel to Bne
@@ -95,16 +95,16 @@ At a Glance
   - Land tax
   - UBI
 
-- LNP
+- [LNP](https://www.liberal.org.au/policy)
   - Nuclear power
   - Reduce migration, including reduce refugees from 20,000 to 13,750
   - Ban foreign home investment
   - Reduce PBS co-payment
 
-- Legalise Cannabis
+- [Legalise Cannabis](https://www.legalisecannabis.org.au/party-policy)
   - Legalise cannabis
 
-- Animal Justice
+- [Animal Justice](https://www.animaljusticeparty.org/our_policies)
   - End greyhound racing
   - Raise age of criminal responsibility to 14
   - Against all farming of animals (even cultured meat!)
@@ -115,8 +115,8 @@ At a Glance
   - Pro public transport
   - Pro vaccines as long as they’re not tested on animals
 
-- Australian Citizens
-  - Pro Prince Philip conspiracies
+- [Australian Citizens](https://citizensparty.org.au/policies)
+  - [Pro Prince Philip conspiracies](https://en.wikipedia.org/wiki/Australian_Citizens_Party) (at least previously)
   - No war with China, leave AUKUS
   - Aussie Post Bank
   - Anti corruption
@@ -125,7 +125,7 @@ At a Glance
   - Open to nuclear power
   - Food and fuel security
 
-- Family First
+- [Family First](https://www.familyfirstparty.org.au/policies)
   - Ban puberty blockers
   - Abolish diversity training
   - Royal commission for government handling of covid pandemic
@@ -136,14 +136,14 @@ At a Glance
   - Pause net zero
   - Ban late term abortions
 
-- HEART
+- [HEART](https://heartparty.com.au/Policies)
   - Natural medicine
   - Vaccine skeptics
 
-- Katter’s Australian
+- [Katter’s Australian](https://kattersaustralianparty.org.au/policies/)
   - Abandon emissions target, restore coal
 
-- Libertarian
+- [Libertarian](https://assets.nationbuilder.com/ldp/pages/7981/attachments/original/1737701301/A_Libertarian_Vision_2025.pdf?1737701301)
   - Make super voluntary
   - Pro crypto currency
   - No renewable energy targets
@@ -152,7 +152,7 @@ At a Glance
   - Repeal section 18C of racial discrimination act
   - Defund ABC
 
-- Trumpet of Patriots
+- [Trumpet of Patriots](https://trumpetofpatriots.org/policies/)
   - Cut immigration
   - “High speed” (120km) rail
   - Pro coal power
@@ -160,7 +160,7 @@ At a Glance
   - Get woke out of schools
   - No vaccine mandates
 
-- One Nation
+- [One Nation](https://www.onenation.org.au/issues)
   - No GST on housing building materials
   - Exit Paris Agreement
   - Cut immigration
