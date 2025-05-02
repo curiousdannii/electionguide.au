@@ -58,18 +58,6 @@ At a Glance
   - No juvie detention
   - Treaty
 
-- [Socialist Alliance](https://socialist-alliance.org/policy)
-  - Pro first nations treaties
-  - Right to vote at 16
-  - Abolish ASIO and spy agencies
-  - End ANZUS and withdraw from AUKUS, cut military spending by 50%
-  - Withdraw from all trade agreements that allow corporations to sue governments
-  - Increase minimum wage to $35
-  - Oppose foetal personhood laws
-  - No religious exemptions for LGBTIQ discrimination
-  - Free uni education
-  - Free public transport
-
 - [Australia’s Voice](https://australiasvoice.com.au/what-we-stand-for/) (Fatima Payman)
   - Limit negative gearing
   - Slash politician’s perks
@@ -94,6 +82,18 @@ At a Glance
   - Anti corruption
   - Land tax
   - UBI
+
+- [Socialist Alliance](https://socialist-alliance.org/policy)
+  - Pro first nations treaties
+  - Right to vote at 16
+  - Abolish ASIO and spy agencies
+  - End ANZUS and withdraw from AUKUS, cut military spending by 50%
+  - Withdraw from all trade agreements that allow corporations to sue governments
+  - Increase minimum wage to $35
+  - Oppose foetal personhood laws
+  - No religious exemptions for LGBTIQ discrimination
+  - Free uni education
+  - Free public transport
 
 - [LNP](https://www.liberal.org.au/policy)
   - Nuclear power
